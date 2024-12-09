@@ -1,0 +1,915 @@
+periodID	dayID	timestamp	time	event	actor	subject	note	where	keyword
+1	1	1653308821	00:00:00	Period begins	NA	NA	NA	NA	NA
+1	1	1653308838.969	00:17:00	Talking to class: ON-task	teacher	class	Watch video	NA	NA
+1	1	1653308873.82	00:52:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+1	1	1653308892.25	01:11:00	Monitoring class: Fixed	teacher	class	NA	NA	NA
+1	1	1653308926.222	01:45:00	Talking to student: ON-task	teacher	10	NA	NA	NA
+1	1	1653308934.58	01:53:00	Talking to student: ON-task	teacher	16	Just watch	NA	NA
+1	1	1653308944.198	02:03:00	Talking to class: ON-task	teacher	class	asking to pay attention to video	NA	NA
+1	1	1653308964.761	02:23:00	Talking to class: ON-task	teacher	class	showing diagrams	NA	NA
+1	1	1653308988.153	02:47:00	Monitoring class: Fixed	teacher	class	NA	Front of the room	NA
+1	1	1653309056.461	03:55:00	Talking to class: ON-task	teacher	class	pre-activity/tutor/giving names	NA	NA
+1	1	1653309094.641	04:33:00	Talking to student: ON-task	teacher	20	NA	Front of the room	Study activity
+1	1	1653309123.258	05:02:00	Talking to student: ON-task	teacher	18	sign in help	Left	NA
+1	1	1653309133.387	05:12:00	Talking to class: ON-task	teacher	class	sign in help	NA	Talking to small group: ON-task
+1	1	1653309146.132	05:25:00	Talking to student: ON-task	teacher	19	sign in help	NA	NA
+1	1	1653309165.126	05:44:00	Talking to student: ON-task	teacher	18	sign in help	Middle	NA
+1	1	1653309190.99	06:09:00	Talking to student: ON-task	teacher	4	NA	Front of the room	NA
+1	1	1653309208.511	06:27:00	Raising hand	6	teacher	NA	NA	NA
+1	1	1653309212.589	06:31:00	Talking to student: ON-task	teacher	3	bending down helping 	Back of the room	NA
+1	1	1653309236.285	06:55:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+1	1	1653309241.6	07:00:00	Monitoring student	teacher	23	NA	NA	NA
+1	1	1653309299.617	07:58:00	Talking to student: ON-task	teacher	20	NA	NA	How tutor works
+1	1	1653309316.06	08:15:00	Talking to student: ON-task	teacher	18	click on the 	Right	Math content
+1	1	1653309351.19	08:50:00	Talking to student: ON-task	teacher	20	good job	NA	How tutor works
+1	1	1653309362.839	09:01:00	Talking to class: ON-task	teacher	class	there is a button that says diagrams	NA	NA
+1	1	1653309382.733	09:21:00	Talking to student: ON-task	teacher	18	*tutor help, try typing again - may be no spaces, hit enter	Right	How tutor works
+1	1	1653309420.165	09:59:00	Talking to class: ON-task	teacher	class	you have to click enter	Front of the room	How tutor works
+1	1	1653309460.801	10:39:00	Talking to student: ON-task	teacher	10	are you doing ok	NA	NA
+1	1	1653309470.275	10:49:00	Talking to student: ON-task	teacher	18	great job. thats it. your done. if you want diagram 	NA	How tutor works
+1	1	1653309494.45	11:13:00	Talking to student: ON-task	teacher	6	would you subtract 3 on both sides. subtract 10. would that be a good thing to do. hmm. see. here is the original equation. add 10 to both sides.	Right	Math content
+1	1	1653309553.629	12:12:00	Talking to student: ON-task	teacher	10	so.. when you get to the end. you need to write. 5+x. -9.	NA	How tutor works
+1	1	1653309589.619	12:48:00	Talking to student: ON-task	teacher	18	your answer is what is left	NA	How tutor works
+1	1	1653309606.903	13:05:00	Inactive	teacher	NA	got a call	NA	NA
+1	1	1653309638.244	13:37:00	Inactive	teacher	NA	NA	At Desk;Front of the room	NA
+1	1	1653309650.303	13:49:00	Raising hand	5	teacher	NA	NA	NA
+1	1	1653309654.191	13:53:00	Raising hand	20	teacher	NA	NA	NA
+1	1	1653309657.772	13:56:00	Raising hand	27	teacher	NA	NA	NA
+1	1	1653309688.1	14:27:00	Talking to student: ON-task	teacher	27	did you just get in. Anon1 you are orange	NA	NA
+1	1	1653309705.432	14:44:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+1	1	1653309707.601	14:46:00	Monitoring class: Fixed	teacher	class	NA	NA	NA
+1	1	1653309709.806	14:48:00	Talking to student: ON-task	teacher	25	did you login? did you do that? greenbear	NA	NA
+1	1	1653309728.819	15:07:00	Monitoring student	teacher	24	there you go	NA	NA
+1	1	1653309740.495	15:19:00	Talking to student: OFF-task	teacher	21	giving charger	NA	NA
+1	1	1653309752.623	15:31:00	Raising hand	23	teacher	NA	NA	NA
+1	1	1653309756.222	15:35:00	Raising hand	18	teacher	NA	NA	NA
+1	1	1653309761.824	15:40:00	Talking to student: ON-task	teacher	23	ok.. i would just write x =. no. no. how did you get to do. use slash? oh! 3 xs right? so, x = 5	NA	How tutor works
+1	1	1653309830.635	16:49:00	Talking to class: ON-task	teacher	class	if you want to division, use slash	NA	Raising hand
+1	1	1653309847.118	17:06:00	Raising hand	18	teacher	NA	NA	NA
+1	1	1653309873.786	17:32:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+1	1	1653309881.718	17:40:00	Talking to class: ON-task	teacher	class	if you are stuck, use diagrams	NA	Talking to student: ON-task
+1	1	1653309930.967	18:29:00	Raising hand	19	teacher	NA	NA	NA
+1	1	1653309935.747	18:34:00	Monitoring student	teacher	20	NA	NA	NA
+1	1	1653309951.656	18:50:00	Talking to student: ON-task	teacher	20	x = 2, thats it	NA	Math content
+1	1	1653309969.273	19:08:00	Talking to student: ON-task	teacher	19	1s over here, 1s over here, 3x	NA	NA
+1	1	1653309987.115	19:26:00	Monitoring student	teacher	27	how are you doing back here?	NA	NA
+1	1	1653310000.436	19:39:00	Questioning: On-Task	18	teacher	NA	NA	NA
+1	1	1653310007.192	19:46:00	Raising hand	18	teacher	NA	NA	NA
+1	1	1653310011.985	19:50:00	Raising hand	10	teacher	NA	NA	NA
+1	1	1653310015.679	19:54:00	Talking to student: ON-task	teacher	12	now you are going to write 3x=4	NA	NA
+1	1	1653310034.85	20:13:00	Talking to student: ON-task	teacher	10	NA	NA	Math content
+1	1	1653310062.35	20:41:00	Talking to student: ON-task	teacher	6	write it out	NA	Math content
+1	1	1653310079.667	20:58:00	Talking to class: ON-task	teacher	class	2 more minutes	Front of the room	Other
+1	1	1653310114.19	21:33:00	Talking to student: ON-task	teacher	6	how would you do that?	NA	Study activity
+1	1	1653310138.653	21:57:00	Talking to student: ON-task	teacher	19	finish survey	NA	NA
+1	1	1653310144.442	22:03:00	Talking to student: ON-task	teacher	27	finish survey	NA	NA
+1	1	1653310165.121	22:24:00	Talking to student: ON-task	teacher	25	you can just write 2x = 4. how are you doing	NA	Math content
+1	1	1653310184.451	22:43:00	Talking to student: ON-task	teacher	24	NA	NA	NA
+1	1	1653310197.98	22:56:00	Talking to student: ON-task	teacher	27	NA	NA	NA
+1	1	1653310202.879	23:01:00	Talking to small group: ON-task	teacher	19;20	finish last problem. hit finish. enter survey	NA	NA
+1	1	1653310222.587	23:21:00	Talking to student: ON-task	teacher	10	NA	NA	Study activity
+1	1	1653310232.655	23:31:00	Talking to small group: ON-task	teacher	19	NA	NA	Study activity
+1	1	1653310246.587	23:45:00	Inactive	teacher	NA	phone call	At Desk;Front of the room	NA
+1	1	1653310269.363	24:08:00	Talking to student: OFF-task	teacher	3	NA	NA	NA
+1	1	1653310274.217	24:13:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+1	1	1653310284.417	24:23:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+1	1	1653310294.27	24:33:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+1	1	1653310309.254	24:48:00	Talking to student: ON-task	teacher	12	how do you get back? scroll down	NA	Study activity
+2	1	1653315204	00:00:00	Period begins	NA	NA	NA	NA	NA
+2	1	1653315212.754	00:08:00	Talking to class: ON-task	teacher	class	watch video	NA	NA
+2	1	1653315244.762	00:40:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+2	1	1653315296.184	01:32:00	Talking to class: ON-task	teacher	class	highlight video contents	NA	NA
+2	1	1653315311.232	01:47:00	Talking to class: ON-task	teacher	class	read the feedback	NA	NA
+2	1	1653315340.191	02:16:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+2	1	1653315374.04	02:50:00	Monitoring class: Fixed	teacher	class	NA	Right;Right	NA
+2	1	1653315390.251	03:06:00	Talking to class: ON-task	teacher	class	use slash to show division	NA	NA
+2	1	1653315420.824	03:36:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+2	1	1653315480.72	04:36:00	Talking to class: ON-task	teacher	class	leading to link	NA	NA
+2	1	1653315515.188	05:11:00	Talking to student: ON-task	teacher	7	login	NA	Study activity
+2	1	1653315563.783	05:59:00	Talking to student: ON-task	teacher	8	login 	At Desk	NA
+2	1	1653315574.652	06:10:00	Talking to class: ON-task	teacher	class	do you remember your user name? password is the same	NA	9
+2	1	1653315617.998	06:53:00	Talking to student: ON-task	teacher	14	NA	NA	Study activity
+2	1	1653315625.155	07:01:00	Talking to student: ON-task	teacher	16	NA	NA	Study activity
+2	1	1653315635.36	07:11:00	Talking to small group: ON-task	teacher	17;19	NA	NA	Study activity
+2	1	1653315655.289	07:31:00	Talking to student: ON-task	teacher	5	student: will i be graded? why are we doing this? teacher: helping research	NA	Study activity
+2	1	1653315690.931	08:06:00	Talking to class: ON-task	teacher	class	NA	NA	Study activity
+2	1	1653315702.62	08:18:00	Talking to student: ON-task	teacher	7	if already got the answer, click submit	NA	How tutor works
+2	1	1653315725.975	08:41:00	Talking to class: ON-task	teacher	class	NA	NA	Talking to student: ON-task
+2	1	1653315745.605	09:01:00	Talking to class: ON-task	teacher	class	press enter	NA	Talking to student: ON-task
+2	1	1653315774.389	09:30:00	Talking to student: ON-task	teacher	4	hit enter. now finish problem	NA	How tutor works
+2	1	1653315801.433	09:57:00	Talking to student: ON-task	teacher	13	NA	NA	How tutor works
+2	1	1653315855.85	10:51:00	Talking to student: ON-task	teacher	11	diagrams explain. hit enter	NA	How tutor works
+2	1	1653315890.281	11:26:00	Talking to student: ON-task	teacher	7	*remind to use diagram. tries to figure out how tutor works - long 	NA	Study activity
+2	1	1653315993.654	13:09:00	Raising hand	9	teacher	NA	NA	NA
+2	1	1653315998.247	13:14:00	Talking to student: ON-task	teacher	9	NA	NA	How tutor works
+2	1	1653316021.331	13:37:00	Talking to student: ON-task	teacher	11	use diagram. which one shows subtracting correctly?	NA	How tutor works
+2	1	1653316117.733	15:13:00	Talking to student: ON-task	teacher	18	NA	NA	NA
+2	1	1653316125.18	15:21:00	Talking to student: ON-task	teacher	20	NA	NA	How tutor works
+2	1	1653316130.284	15:26:00	Talking to student: ON-task	teacher	17	NA	NA	How tutor works
+2	1	1653316184.203	16:20:00	Talking to student: ON-task	teacher	19	Figuring out tutor issue with the student and Anon4	NA	How tutor works
+2	1	1653316278.381	17:54:00	Talking to class: ON-task	teacher	class	type out full sentences in feedback	NA	Talking to student: ON-task
+2	1	1653316345.37	19:01:00	Talking to class: ON-task	teacher	class	keep working - teacher still working with 14 - students look off task	NA	NA
+2	1	1653316447.22	20:43:00	Talking to student: ON-task	teacher	7	NA	NA	How tutor works
+2	1	1653316501.81	21:37:00	Talking to student: ON-task	teacher	4	NA	NA	Study activity
+2	1	1653316546.691	22:22:00	Talking to student: ON-task	teacher	3	NA	NA	Study activity
+2	1	1653316555.312	22:31:00	Monitoring student	teacher	17	NA	NA	NA
+2	1	1653316558.622	22:34:00	Monitoring student	teacher	19	NA	NA	NA
+2	1	1653316570.819	22:46:00	Monitoring student	teacher	14	NA	NA	NA
+2	1	1653316582.348	22:58:00	Raising hand	11	teacher	NA	NA	NA
+2	1	1653316626.115	23:42:00	Talking to class: ON-task	teacher	class	dont forget to sign out	NA	Talking to student: ON-task
+2	1	1653316647.53	24:03:00	Talking to student: ON-task	teacher	3	what is sign out?	NA	Study activity
+2	1	1653316663.363	24:19:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+2	1	1653316672.615	24:28:00	Talking to student: ON-task	teacher	17	how to go to home screen	NA	How tutor works
+2	1	1653316729.93	25:25:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+3	1	1653318356	00:00:00	Period begins	NA	NA	NA	NA	NA
+3	1	1653318374.235	00:18:00	Talking to class: ON-task	teacher	class	Focus on the video	NA	Monitoring class: Moving
+3	1	1653318400.447	00:44:00	Monitoring class: Fixed	teacher	class	NA	NA	NA
+3	1	1653318451.128	01:35:00	Inactive	teacher	NA	Outside the classroom - second teacher monitoring (15 sec)	NA	NA
+3	1	1653318492.127	02:16:00	Talking to class: ON-task	teacher	class	highlighting part of video	NA	Talking to student: ON-task
+3	1	1653318530.315	02:54:00	Monitoring class: Fixed	teacher	class	NA	NA	NA
+3	1	1653318556.611	03:20:00	Talking to class: OFF-task	teacher	class	NA	NA	Monitoring class: Fixed
+3	1	1653318571.727	03:35:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+3	1	1653318639.41	04:43:00	Raising hand	19	teacher	NA	NA	NA
+3	1	1653318658.453	05:02:00	Talking to class: ON-task	teacher	class	sign in	NA	NA
+3	1	1653318681.816	05:25:00	Monitoring class: Moving	teacher	class	NA	Front of the room;Left	NA
+3	1	1653318686.632	05:30:00	Talking to student: ON-task	teacher	17	NA	NA	Study activity
+3	1	1653318692.24	05:36:00	Talking to student: ON-task	teacher	18	NA	NA	Study activity
+3	1	1653318696.581	05:40:00	Talking to student: ON-task	teacher	14	NA	NA	Study activity
+3	1	1653318703.912	05:47:00	Talking to student: ON-task	teacher	13	NA	NA	Study activity
+3	1	1653318720.198	06:04:00	Talking to student: ON-task	teacher	23	NA	NA	Study activity
+3	1	1653318726.213	06:10:00	Talking to student: ON-task	teacher	25	NA	Back of the room	Study activity
+3	1	1653318817.226	07:41:00	Raising hand	2	teacher	NA	NA	NA
+3	1	1653318822.358	07:46:00	Talking to student: ON-task	teacher	10	login	NA	NA
+3	1	1653318827.104	07:51:00	Talking to student: ON-task	teacher	2	login	NA	Study activity
+3	1	1653318842.264	08:06:00	Talking to student: ON-task	teacher	8	login	NA	NA
+3	1	1653318920.576	09:24:00	Monitoring student	teacher	13	NA	NA	NA
+3	1	1653318928.597	09:32:00	Talking to student: ON-task	teacher	23	NA	NA	How tutor works
+3	1	1653319075.792	11:59:00	Raising hand	25	teacher	NA	NA	NA
+3	1	1653319078.791	12:02:00	Talking to student: ON-task	teacher	25	you have to click enter and finish problem	NA	How tutor works
+3	1	1653319100.41	12:24:00	Talking to class: ON-task	teacher	class	NA	NA	Talking to student: ON-task
+3	1	1653319164.742	13:28:00	Talking to student: ON-task	teacher	3	NA	NA	How tutor works
+3	1	1653319173.12	13:37:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+3	1	1653319185.55	13:49:00	Talking to student: ON-task	teacher	14	NA	NA	How tutor works
+3	1	1653319204.79	14:08:00	Talking to student: ON-task	teacher	7	NA	NA	Study activity
+3	1	1653319254.63	14:58:00	Talking to student: ON-task	teacher	1	NA	NA	NA
+3	1	1653319258.627	15:02:00	Talking to student: ON-task	teacher	2	NA	NA	Math content
+3	1	1653319365.235	16:49:00	Talking to student: ON-task	teacher	10	NA	NA	Study activity
+3	1	1653319374.159	16:58:00	Talking to student: ON-task	teacher	10	NA	NA	How tutor works
+3	1	1653319382.932	17:06:00	Talking to student: ON-task	teacher	20	NA	NA	Math content
+3	1	1653319439.913	18:03:00	Talking to student: ON-task	teacher	17	NA	NA	How tutor works
+3	1	1653319459.964	18:23:00	Raising hand	8	teacher	NA	NA	NA
+3	1	1653319466.393	18:30:00	Talking to small group: ON-task	teacher	7;8	NA	NA	Study activity
+3	1	1653319475.183	18:39:00	Talking to student: ON-task	teacher	8	NA	NA	Math content
+3	1	1653319500.959	19:04:00	Talking to student: ON-task	teacher	10	NA	NA	Study activity
+3	1	1653319518.685	19:22:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+3	1	1653319519.729	19:23:00	Monitoring student	teacher	3	NA	NA	NA
+3	1	1653319524.198	19:28:00	Talking to student: ON-task	teacher	3	NA	NA	How tutor works
+3	1	1653319538.79	19:42:00	Talking to student: ON-task	teacher	13	NA	NA	How tutor works
+3	1	1653319614.562	20:58:00	Monitoring student	teacher	23	NA	NA	NA
+3	1	1653319714.526	22:38:00	Talking to student: ON-task	teacher	25	NA	NA	Math content
+3	1	1653319734.115	22:58:00	Monitoring student	teacher	19;20	NA	NA	NA
+3	1	1653319740.457	23:04:00	Talking to student: ON-task	teacher	19	NA	NA	Math content
+3	1	1653319780.212	23:44:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+3	1	1653319812.368	24:16:00	Inactive	teacher	NA	talking to Anon5	Front of the room	NA
+3	1	1653319842.485	24:46:00	Talking to class: ON-task	teacher	class	click x and sign out	NA	NA
+3	1	1653319866.473	25:10:00	Talking to class: ON-task	teacher	class	sign out	NA	Other
+4	1	1653323810	00:00:00	Period begins	NA	NA	NA	NA	NA
+4	1	1653323828.474	00:18:00	Talking to class: ON-task	teacher	class	Focus on watching the video	NA	Other
+4	1	1653323965.634	02:35:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+4	1	1653323990.31	03:00:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+4	1	1653324027.458	03:37:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+4	1	1653324035.2	03:45:00	Monitoring class: Fixed	teacher	class	NA	Front of the room	NA
+4	1	1653324054.179	04:04:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+4	1	1653324095.787	04:45:00	Talking to class: ON-task	teacher	class	login names	NA	NA
+4	1	1653324109.438	04:59:00	Raising hand	6	teacher	login	NA	NA
+4	1	1653324114.838	05:04:00	Raising hand	1	teacher	login	NA	NA
+4	1	1653324125.762	05:15:00	Raising hand	9	teacher	login	NA	NA
+4	1	1653324178.687	06:08:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+4	1	1653324186.97	06:16:00	Raising hand	20	teacher	NA	NA	NA
+4	1	1653324190.775	06:20:00	Raising hand	15	teacher	NA	NA	NA
+4	1	1653324197.512	06:27:00	Talking to student: ON-task	teacher	18	login	NA	Study activity
+4	1	1653324212.877	06:42:00	Talking to student: ON-task	teacher	20	login	NA	Study activity
+4	1	1653324253.289	07:23:00	Talking to student: ON-task	teacher	14	NA	NA	Study activity
+4	1	1653324259.53	07:29:00	Raising hand	23	teacher	NA	NA	NA
+4	1	1653324262.96	07:32:00	Raising hand	18	teacher	NA	NA	NA
+4	1	1653324268.624	07:38:00	Talking to student: ON-task	teacher	23	NA	NA	Study activity
+4	1	1653324275.387	07:45:00	Talking to student: ON-task	teacher	8	NA	NA	Study activity
+4	1	1653324286.893	07:56:00	Raising hand	9	teacher	NA	NA	NA
+4	1	1653324308.567	08:18:00	Talking to student: ON-task	teacher	10	NA	NA	Study activity
+4	1	1653324321.4	08:31:00	Talking to student: OFF-task	teacher	23	NA	NA	NA
+4	1	1653324325.925	08:35:00	Talking to student: ON-task	teacher	16	NA	NA	NA
+4	1	1653324390.869	09:40:00	Talking to student: ON-task	teacher	18	NA	NA	Study activity
+4	1	1653324398.359	09:48:00	Talking to student: ON-task	teacher	10	NA	NA	How tutor works
+4	1	1653324416.661	10:06:00	Raising hand	1	teacher	NA	NA	NA
+4	1	1653324421.979	10:11:00	Talking to student: ON-task	teacher	1	NA	NA	Study activity
+4	1	1653324442.149	10:32:00	Talking to class: OFF-task	teacher	class	making fun - story - related to task of 1	NA	Talking to student: ON-task
+4	1	1653324522.753	11:52:00	Raising hand	8	teacher	NA	NA	NA
+4	1	1653324526.905	11:56:00	Raising hand	11	teacher	NA	NA	NA
+4	1	1653324534.742	12:04:00	Talking to student: ON-task	teacher	7	NA	NA	How tutor works
+4	1	1653324568.251	12:38:00	Talking to student: ON-task	teacher	11	NA	NA	How tutor works
+4	1	1653324626.278	13:36:00	Talking to student: ON-task	teacher	9	NA	NA	Math content
+4	1	1653324636.57	13:46:00	Talking to student: ON-task	teacher	1	NA	NA	How tutor works
+4	1	1653324661.924	14:11:00	Talking to class: ON-task	teacher	class	focus	NA	Talking to student: ON-task
+4	1	1653324692.489	14:42:00	Raising hand	9	teacher	NA	NA	NA
+4	1	1653324701.449	14:51:00	Talking to student: ON-task	teacher	3	hoe tutor works	NA	NA
+4	1	1653324720.213	15:10:00	Talking to student: ON-task	teacher	14	motivating student to do something 	NA	Study activity
+4	1	1653324756.92	15:46:00	Raising hand	9	teacher	NA	NA	NA
+4	1	1653324758.906	15:48:00	Raising hand	23	teacher	NA	NA	NA
+4	1	1653324777.33	16:07:00	Talking to student: ON-task	teacher	9	NA	NA	Study activity
+4	1	1653324787.925	16:17:00	Talking to student: ON-task	teacher	7	NA	NA	How tutor works
+4	1	1653324828.275	16:58:00	Talking to class: OFF-task	teacher	class	NA	NA	25
+4	1	1653324832.266	17:02:00	Talking to student: ON-task	teacher	23	always have to click enter	NA	How tutor works
+4	1	1653324850.257	17:20:00	Raising hand	6	teacher	NA	NA	NA
+4	1	1653324855.585	17:25:00	Raising hand	20	teacher	NA	NA	NA
+4	1	1653324862.196	17:32:00	Talking to student: ON-task	teacher	15	NA	NA	How tutor works
+4	1	1653324878.131	17:48:00	Talking to student: ON-task	teacher	6	how to write fraction	NA	How tutor works
+4	1	1653324927.674	18:37:00	Talking to student: OFF-task	teacher	20	NA	NA	NA
+4	1	1653324933.653	18:43:00	Inactive	teacher	NA	walked out of the class - manage chaos in hall way	NA	NA
+4	1	1653324960.89	19:10:00	Inactive	teacher	NA	talking to outsider	NA	NA
+4	1	1653324986.319	19:36:00	Inactive	teacher	NA	NA	Back of the room	NA
+4	1	1653325026.213	20:16:00	Raising hand	14	teacher	NA	NA	NA
+4	1	1653325050.695	20:40:00	Talking to student: ON-task	teacher	23	whatever is in the blue is in yellow	NA	How tutor works
+4	1	1653325073.128	21:03:00	Raising hand	6	teacher	NA	NA	NA
+4	1	1653325080.587	21:10:00	Talking to student: ON-task	teacher	14	NA	Front of the room	Study activity
+4	1	1653325104.145	21:34:00	Raising hand	10	teacher	NA	NA	NA
+4	1	1653325110.384	21:40:00	Talking to class: ON-task	teacher	class	sign out	NA	NA
+4	1	1653325125.261	21:55:00	Talking to student: ON-task	teacher	1	NA	NA	How tutor works
+4	1	1653325168.82	22:38:00	Talking to student: ON-task	teacher	9	NA	NA	How tutor works
+4	1	1653325176.421	22:46:00	Talking to student: ON-task	teacher	10	NA	NA	How tutor works
+4	1	1653325187.464	22:57:00	Talking to class: ON-task	teacher	class	sign out	NA	NA
+4	1	1653325202.639	23:12:00	Monitoring student	teacher	18	NA	NA	NA
+4	1	1653325208.39	23:18:00	Talking to class: ON-task	teacher	class	wrapping up	NA	NA
+4	1	1653325224.837	23:34:00	Talking to small group: ON-task	teacher	9;10;11;12	NA	NA	Study activity
+4	1	1653325237.807	23:47:00	Talking to small group: ON-task	teacher	15;16	NA	NA	NA
+5	1	1653329839	00:00:00	Period begins	NA	NA	NA	NA	NA
+5	1	1653329853.971	00:14:00	Talking to class: ON-task	teacher	class	focus on video	NA	NA
+5	1	1653329930.562	01:31:00	Talking to class: ON-task	teacher	class	highlight a part of the video	NA	How tutor works
+5	1	1653330035.593	03:16:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+5	1	1653330048.859	03:29:00	Raising hand	12	teacher	NA	NA	NA
+5	1	1653330123.761	04:44:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+5	1	1653330218.96	06:19:00	Talking to student: ON-task	teacher	19	NA	NA	Study activity
+5	1	1653330233.37	06:34:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+5	1	1653330251.402	06:52:00	Raising hand	2	teacher	NA	NA	NA
+5	1	1653330257.984	06:58:00	Raising hand	19	teacher	NA	NA	NA
+5	1	1653330263.42	07:04:00	Talking to student: ON-task	teacher	19	NA	Front of the room	How tutor works
+5	1	1653330286.44	07:27:00	Raising hand	14	teacher	NA	NA	NA
+5	1	1653330306.185	07:47:00	Raising hand	2	teacher	NA	NA	NA
+5	1	1653330309.822	07:50:00	Raising hand	11	teacher	NA	NA	NA
+5	1	1653330314.743	07:55:00	Inactive	teacher	NA	working on some papers at desk	NA	NA
+5	1	1653330351.107	08:32:00	Raising hand	23	teacher	NA	NA	NA
+5	1	1653330372.793	08:53:00	Inactive	teacher	NA	working on some paper	NA	NA
+5	1	1653330384.355	09:05:00	Questioning: On-Task	6	teacher	without raising hand	NA	NA
+5	1	1653330389.108	09:10:00	Talking to student: ON-task	teacher	6	NA	NA	How tutor works
+5	1	1653330405.57	09:26:00	Talking to student: OFF-task	teacher	19	from an assignment	NA	NA
+5	1	1653330429.869	09:50:00	Talking to student: ON-task	teacher	11	keep the two. finish, enter. white box. 	NA	NA
+5	1	1653330455.585	10:16:00	Raising hand	23	teacher	NA	NA	NA
+5	1	1653330457.994	10:18:00	Raising hand	14	teacher	NA	NA	NA
+5	1	1653330461.554	10:22:00	Raising hand	16	teacher	NA	NA	NA
+5	1	1653330466.61	10:27:00	Talking to student: ON-task	teacher	14	NA	NA	Study activity
+5	1	1653330477.769	10:38:00	Talking to student: ON-task	teacher	16	NA	NA	How tutor works
+5	1	1653330511.516	11:12:00	Talking to student: ON-task	teacher	17	NA	NA	Study activity
+5	1	1653330523.546	11:24:00	Talking to student: ON-task	teacher	16	NA	NA	Study activity
+5	1	1653330529.897	11:30:00	Talking to student: ON-task	teacher	24	NA	NA	Study activity
+5	1	1653330542.298	11:43:00	Talking to student: ON-task	teacher	19	NA	NA	How tutor works
+5	1	1653330568.856	12:09:00	Talking to student: ON-task	teacher	10	NA	NA	How tutor works
+5	1	1653330583.181	12:24:00	Talking to student: ON-task	teacher	20	NA	NA	How tutor works
+5	1	1653330599.358	12:40:00	Raising hand	15	teacher	NA	NA	NA
+5	1	1653330609.225	12:50:00	Talking to class: ON-task	teacher	class	diagrams are there to help you	NA	NA
+5	1	1653330636.889	13:17:00	Talking to student: ON-task	teacher	15	NA	NA	How tutor works
+5	1	1653330642.34	13:23:00	Talking to student: ON-task	teacher	9	NA	NA	Study activity
+5	1	1653330656.15	13:37:00	Monitoring student	teacher	10	NA	NA	NA
+5	1	1653330661.44	13:42:00	Talking to student: ON-task	teacher	3	NA	NA	NA
+5	1	1653330667.18	13:48:00	Talking to student: OFF-task	teacher	14	NA	NA	NA
+5	1	1653330670.308	13:51:00	Talking to student: ON-task	teacher	23	NA	NA	How tutor works
+5	1	1653330718.499	14:39:00	Talking to class: ON-task	teacher	class	if you feel stuck, use diagrams	NA	NA
+5	1	1653330723.296	14:44:00	Talking to student: ON-task	teacher	14	NA	NA	How tutor works
+5	1	1653330755.916	15:16:00	Talking to student: ON-task	teacher	6	NA	NA	How tutor works
+5	1	1653330773.875	15:34:00	Monitoring student	teacher	3	how are you doing here?	NA	NA
+5	1	1653330786.832	15:47:00	Talking to student: ON-task	teacher	3	NA	NA	How tutor works
+5	1	1653330794.927	15:55:00	Talking to student: ON-task	teacher	16	NA	NA	How tutor works
+5	1	1653330841.961	16:42:00	Talking to student: ON-task	teacher	14	NA	NA	How tutor works
+5	1	1653330863.813	17:04:00	Raising hand	6	teacher	NA	NA	NA
+5	1	1653330879.85	17:20:00	Talking to student: ON-task	teacher	6	NA	NA	How tutor works
+5	1	1653330886.79	17:27:00	Raising hand	18	teacher	NA	NA	NA
+5	1	1653330909.377	17:50:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+5	1	1653330919.613	18:00:00	Raising hand	4	teacher	NA	NA	NA
+5	1	1653330949.811	18:30:00	Talking to class: ON-task	teacher	class	press red x	NA	NA
+5	1	1653330960.954	18:41:00	Talking to student: ON-task	teacher	23	NA	NA	How tutor works
+5	1	1653330976.688	18:57:00	Raising hand	14	teacher	NA	NA	NA
+5	1	1653330995.874	19:16:00	Raising hand	18	teacher	NA	NA	NA
+5	1	1653331034.2	19:55:00	Talking to student: ON-task	teacher	2	NA	NA	Study activity
+5	1	1653331047.425	20:08:00	Talking to student: ON-task	teacher	18	NA	NA	How tutor works
+5	1	1653331093.675	20:54:00	Talking to class: ON-task	teacher	class	sign out if you are done	NA	Raising hand
+5	1	1653331125.293	21:26:00	Raising hand	19	teacher	NA	NA	NA
+5	1	1653331128.89	21:29:00	Talking to student: ON-task	teacher	3	NA	NA	Study activity
+5	1	1653331154.872	21:55:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+5	1	1653331157.596	21:58:00	Talking to student: ON-task	teacher	19	is it ok if i closed	NA	How tutor works
+1	2	1653394928	00:00:00	Period begins	NA	NA	NA	NA	NA
+1	2	1653394961.289	00:33:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+1	2	1653394964.308	00:36:00	Talking to class: ON-task	teacher	class	login help	NA	NA
+1	2	1653394975.993	00:47:00	Talking to class: ON-task	teacher	class	if you are stuck, use diagram	NA	NA
+1	2	1653394988.821	01:00:00	Talking to student: ON-task	teacher	17	login	NA	Study activity
+1	2	1653394998.389	01:10:00	Talking to student: ON-task	teacher	11	login	NA	Study activity
+1	2	1653395042.621	01:54:00	Talking to student: ON-task	teacher	19	"to solve the equation, what would you do first. this says subtract 3, 7.. what do you think? ok.. good choice. in the box, type whatever is blue whatever is yellow. can you solve that or do you want to see the diagram. this says "" divide by.."" this says """" what would you do. you need to plugin. "	NA	Math content
+1	2	1653395142.781	03:34:00	Talking to student: ON-task	teacher	20	what will you do to get x by itself - thats it - finish	NA	Math content
+1	2	1653395173.531	04:05:00	Talking to student: ON-task	teacher	12	NA	NA	How tutor works
+1	2	1653395202.735	04:34:00	Monitoring student	teacher	16	NA	NA	NA
+1	2	1653395208.103	04:40:00	Talking to student: ON-task	teacher	14	what is 2-2. 0 right? type x = whatever number	NA	How tutor works
+1	2	1653395237.805	05:09:00	Talking to student: ON-task	teacher	4	how are you doing?	NA	NA
+1	2	1653395250.632	05:22:00	Talking to small group: ON-task	teacher	11;12;18	you have diagrams but you also can	NA	How tutor works
+1	2	1653395280.935	05:52:00	Talking to student: ON-task	teacher	18	very nice.. click on finish problem. what should you do first? this says subtract, ... 	NA	Math content
+1	2	1653395338.873	06:50:00	Talking to student: ON-task	teacher	12	this is saying add ? on both sides, subtract ? in both. in white box type whatever is in blue and whatever is in yellow	NA	Math content
+1	2	1653395448.325	08:40:00	Raising hand	21	teacher	NA	NA	NA
+1	2	1653395454.655	08:46:00	Talking to student: ON-task	teacher	11	NA	NA	How tutor works
+1	2	1653395465.249	08:57:00	Talking to student: ON-task	teacher	12	what is broken off is subtract	NA	How tutor works
+1	2	1653395492.409	09:24:00	Talking to student: ON-task	teacher	17	how 	NA	Math content
+1	2	1653395502.967	09:34:00	Raising hand	10	teacher	NA	NA	NA
+1	2	1653395566.367	10:38:00	Monitoring class: Fixed	teacher	class	NA	NA	NA
+1	2	1653395569.337	10:41:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+1	2	1653395571.257	10:43:00	Talking to student: ON-task	teacher	15	NA	NA	NA
+1	2	1653395578.599	10:50:00	Talking to class: ON-task	teacher	class	blue box yellow box	NA	NA
+1	2	1653395593.823	11:05:00	Talking to student: ON-task	teacher	4	NA	NA	How tutor works
+1	2	1653395645.58	11:57:00	Talking to student: ON-task	teacher	10	NA	NA	How tutor works
+1	2	1653395687.545	12:39:00	Monitoring class: Fixed	teacher	class	NA	NA	NA
+1	2	1653395689.599	12:41:00	Talking to student: ON-task	teacher	19	what do we do to solve this problem? you want to subtract 3 on both sides?	NA	Math content
+1	2	1653395744.394	13:36:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+1	2	1653395750.19	13:42:00	Raising hand	13	teacher	NA	NA	NA
+1	2	1653395763.572	13:55:00	Inactive	teacher	NA	talking to zoom researchers	At Desk;Front of the room	NA
+1	2	1653395813.43	14:45:00	Talking to class: OFF-task	teacher	class	about zoom ppl able to see 	NA	NA
+1	2	1653395858.644	15:30:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+1	2	1653395885.607	15:57:00	Talking to class: ON-task	teacher	class	asking students to focus on the activity	NA	NA
+1	2	1653395901.812	16:13:00	Talking to class: ON-task	teacher	class	remember to sign out	NA	NA
+1	2	1653395923.345	16:35:00	Inactive	teacher	NA	talking to zoom researchers	At Desk	NA
+1	2	1653395935.36	16:47:00	Talking to small group: ON-task	teacher	17;18;19;20	pls finish the problen and sign out	NA	Behavior
+1	2	1653395960.684	17:12:00	Talking to student: ON-task	teacher	4	how would you solve this problem? 	NA	Math content
+1	2	1653395981.663	17:33:00	Talking to student: ON-task	teacher	12	NA	NA	Study activity
+1	2	1653395991.483	17:43:00	Talking to student: ON-task	teacher	10	pls sign out	NA	How tutor works
+1	2	1653396010.629	18:02:00	Talking to student: ON-task	teacher	18	good job	NA	Study activity
+1	2	1653396023.308	18:15:00	Talking to student: ON-task	teacher	19	sign out	NA	Study activity
+1	2	1653396034.88	18:26:00	Monitoring student	teacher	14	NA	NA	NA
+1	2	1653396042.395	18:34:00	Talking to student: ON-task	teacher	21	survey - do you think diagrams are helping you? - helped typing the answer out 	NA	Study activity
+1	2	1653396095.597	19:27:00	Inactive	teacher	NA	thanking Anon7	NA	NA
+2	2	1653400928	00:00:00	Period begins	NA	NA	NA	NA	NA
+2	2	1653400949.296	00:21:00	Inactive	teacher	NA	talking to Anon4	NA	NA
+2	2	1653400999.505	01:11:00	Talking to class: ON-task	teacher	class	asking students to login 	NA	NA
+2	2	1653401112.552	03:04:00	Inactive	teacher	NA	on phone	NA	NA
+2	2	1653401134.288	03:26:00	Questioning: On-Task	11	teacher	Don't even know how this works	NA	NA
+2	2	1653401146.336	03:38:00	Talking to student: ON-task	teacher	11	whatever is in the blue put it. explians how diagrams work. 	NA	Study activity
+2	2	1653401216.336	04:48:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+2	2	1653401218.327	04:50:00	Talking to student: ON-task	teacher	15	type whatever is in yellow and whatever is in blue. do you know what to do next?	NA	How tutor works
+2	2	1653401266.599	05:38:00	Talking to student: ON-task	teacher	17	NA	NA	How tutor works
+2	2	1653401296.999	06:08:00	Monitoring student	teacher	20	NA	NA	NA
+2	2	1653401300.287	06:12:00	Talking to student: ON-task	teacher	20	good job	NA	Motivation
+2	2	1653401315.674	06:27:00	Monitoring student	teacher	18	NA	NA	NA
+2	2	1653401324.994	06:36:00	Talking to student: ON-task	teacher	18	blue bix equals yellow	NA	How tutor works
+2	2	1653401344.856	06:56:00	Talking to student: ON-task	teacher	12	login	NA	Study activity
+2	2	1653401355.195	07:07:00	Talking to student: ON-task	teacher	19	good job you subtracted ? from both sides. if you use diagram, it shows you	NA	Math content
+2	2	1653401383.473	07:35:00	Raising hand	5	teacher	NA	NA	NA
+2	2	1653401388.03	07:40:00	Talking to student: ON-task	teacher	14	good job you subtract x from both sides. take 8 and divide both sides. they did nothing here. should you multiple or divide both sides	NA	Math content
+2	2	1653401458.587	08:50:00	Talking to student: ON-task	teacher	5	NA	NA	Study activity
+2	2	1653401474.306	09:06:00	Talking to small group: ON-task	teacher	7;8	how are you doing here?	NA	Motivation
+2	2	1653401494.141	09:26:00	Talking to class: ON-task	teacher	class	NA	NA	Talking to class: OFF-task
+2	2	1653401504.44	09:36:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+2	2	1653401509.945	09:41:00	Talking to student: ON-task	teacher	11	in this box write. press entere. now. whatever you wrote on one side. divide both side. good job	NA	How tutor works
+2	2	1653401535.89	10:07:00	Talking to small group: ON-task	teacher	17;19	did you use hint, diagrams?	NA	NA
+2	2	1653401590.412	11:02:00	Talking to student: ON-task	teacher	9	you are skipping many steps. 	NA	How tutor works
+2	2	1653401631.668	11:43:00	Talking to class: ON-task	teacher	class	there are pop ups - hope you are reading them	NA	NA
+2	2	1653401649.348	12:01:00	Talking to student: ON-task	teacher	5	remeber to press enter	NA	How tutor works
+2	2	1653401663.34	12:15:00	Talking to student: ON-task	teacher	3	divide this side - both sides - read the pop up	NA	How tutor works
+2	2	1653401691.952	12:43:00	Monitoring student	teacher	15	NA	NA	NA
+2	2	1653401702.225	12:54:00	Talking to student: ON-task	teacher	15	write 2x= 4	NA	How tutor works
+2	2	1653401711.815	13:03:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+2	2	1653401713.655	13:05:00	Talking to student: ON-task	teacher	19	you subtracted ? from both sides to isolate the variable. now,.. 	NA	Math content
+2	2	1653401741.328	13:33:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+2	2	1653401743.933	13:35:00	Talking to student: ON-task	teacher	5	doing well Anon3	NA	Motivation
+2	2	1653401755.137	13:47:00	Talking to student: ON-task	teacher	3	now try 2x = 1 	NA	Math content
+2	2	1653401792.564	14:24:00	Talking to student: ON-task	teacher	5	what are you planning to do? good job.. you are typing 2x=4.. subtracted from both side. you can't just go from there to here. you need a pitstop. they want to see how you did that.	NA	How tutor works
+2	2	1653401850.959	15:22:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+2	2	1653401853.271	15:25:00	Monitoring student	teacher	15;16	NA	NA	NA
+2	2	1653401857.621	15:29:00	Monitoring student	teacher	19	NA	NA	NA
+2	2	1653401859.889	15:31:00	Talking to student: ON-task	teacher	19	NA	NA	How tutor works
+2	2	1653401867.703	15:39:00	Monitoring student	teacher	20	NA	NA	NA
+2	2	1653401877.201	15:49:00	Talking to student: ON-task	teacher	12	NA	NA	How tutor works
+2	2	1653401884.416	15:56:00	Talking to student: ON-task	teacher	8	did you finish everything? good job. scroll down	NA	Motivation
+2	2	1653401910.738	16:22:00	Inactive	teacher	NA	talking to Anon4	NA	NA
+2	2	1653401913.29	16:25:00	Raising hand	11	teacher	NA	NA	NA
+2	2	1653401940.56	16:52:00	Inactive	teacher	NA	eating breakfast	At Desk	NA
+2	2	1653401957.28	17:09:00	Questioning: On-Task	11	teacher	finished everything	NA	NA
+2	2	1653401964.564	17:16:00	Talking to student: ON-task	teacher	11	scroll down.. you will find more	NA	Study activity
+2	2	1653401988.61	17:40:00	Inactive	teacher	NA	talking to Anon4 - clarifying student 11 tasks	At Desk	NA
+2	2	1653402017.293	18:09:00	Inactive	teacher	NA	getting clarification	At Desk	NA
+2	2	1653402033.317	18:25:00	Talking to student: ON-task	teacher	11	helping 11 find more questions	NA	Study activity
+2	2	1653402071.824	19:03:00	Raising hand	5	teacher	NA	NA	NA
+2	2	1653402076.452	19:08:00	Monitoring class: Moving	teacher	class	NA	At Desk	NA
+2	2	1653402087.878	19:19:00	Inactive	teacher	NA	talking to Anon4	At Desk;At Desk	NA
+2	2	1653402114.964	19:46:00	Inactive	teacher	NA	checking the tutor	At Desk	NA
+2	2	1653402148.977	20:20:00	Inactive	teacher	NA	checking emails	At Desk	NA
+2	2	1653402202.431	21:14:00	Inactive	teacher	NA	NA	At Desk	NA
+2	2	1653402216.611	21:28:00	Talking to student: ON-task	teacher	7	problems too easy - wish i had a paper to write it - easier 	NA	Study activity
+2	2	1653402252.478	22:04:00	Talking to student: ON-task	teacher	11	i like diagrams	NA	Study activity
+2	2	1653402266.05	22:18:00	Inactive	teacher	NA	To Anon4: why did you name it Lynette?	At Desk	NA
+2	2	1653402287.709	22:39:00	Talking to class: OFF-task	teacher	class	CMU story 	NA	NA
+2	2	1653402320.189	23:12:00	Talking to class: ON-task	teacher	class	finish your problem and sign out	NA	NA
+2	2	1653402378.771	24:10:00	Talking to class: ON-task	teacher	class	Why doing this is important	NA	NA
+2	2	1653402403.986	24:35:00	Talking to student: ON-task	teacher	7	why doing this is important	NA	Motivation
+2	2	1653402455.452	25:27:00	Talking to class: OFF-task	teacher	class	how long you go to college	NA	NA
+2	2	1653402470.194	25:42:00	Talking to class: ON-task	teacher	class	sign out	NA	NA
+3	2	1653404243	00:00:00	Period begins	NA	NA	NA	NA	NA
+3	2	1653404245.65	00:02:00	Talking to class: ON-task	teacher	class	asking everyone to login	NA	NA
+3	2	1653404257.362	00:14:00	Inactive	teacher	NA	do =ing yearbook work 	NA	NA
+3	2	1653404310.9	01:07:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+3	2	1653404315.61	01:12:00	Raising hand	18	teacher	NA	NA	NA
+3	2	1653404322.413	01:19:00	Talking to student: ON-task	teacher	6	NA	NA	NA
+3	2	1653404346.258	01:43:00	Talking to student: ON-task	teacher	7	no chromebook	NA	Study activity
+3	2	1653404360.959	01:57:00	Talking to small group: ON-task	teacher	5;6	login	NA	Study activity
+3	2	1653404373.366	02:10:00	Talking to student: ON-task	teacher	18	student asked who are the people in zoom	NA	Study activity
+3	2	1653404406.684	02:43:00	Talking to student: OFF-task	teacher	25	you can move if you want	NA	Behavior
+3	2	1653404419.65	02:56:00	Talking to student: ON-task	teacher	23	login	NA	Study activity
+3	2	1653404427.168	03:04:00	Talking to student: ON-task	teacher	25;22	login	NA	Study activity
+3	2	1653404438.996	03:15:00	Talking to student: ON-task	teacher	23	so what are you going to do first. subtract ? on both sides. no cpaitals and spaces	NA	How tutor works
+3	2	1653404478.198	03:55:00	Talking to student: ON-task	teacher	22	NA	NA	NA
+3	2	1653404485.364	04:02:00	Talking to student: ON-task	teacher	17	explaining options. asks what will you do then.	NA	How tutor works
+3	2	1653404509.849	04:26:00	Raising hand	18	teacher	NA	NA	NA
+3	2	1653404515.172	04:32:00	Talking to student: ON-task	teacher	18	if you don't know what to do, there are hints.	NA	How tutor works
+3	2	1653404551.82	05:08:00	Talking to student: ON-task	teacher	8	good job	NA	How tutor works
+3	2	1653404560.551	05:17:00	Talking to student: ON-task	teacher	6	get started	NA	Behavior
+3	2	1653404597.71	05:54:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+3	2	1653404600.74	05:57:00	Monitoring student	teacher	22	NA	NA	NA
+3	2	1653404606.868	06:03:00	Talking to student: ON-task	teacher	22	help get into the activity	NA	Study activity
+3	2	1653404631.886	06:28:00	Monitoring class: Moving	teacher	class	NA	Front of the room	NA
+3	2	1653404637.416	06:34:00	Raising hand	7	teacher	NA	NA	NA
+3	2	1653404644.283	06:41:00	Talking to student: ON-task	teacher	7	login help	NA	Study activity
+3	2	1653404655.925	06:52:00	Inactive	teacher	NA	taking attendance	At Desk	NA
+3	2	1653404665.3	07:02:00	Questioning: On-Task	7	teacher	NA	NA	NA
+3	2	1653404697.391	07:34:00	Inactive	teacher	NA	checking computer	At Desk	NA
+3	2	1653404726.972	08:03:00	Talking to small group: ON-task	teacher	25;22	NA	NA	NA
+3	2	1653404735.238	08:12:00	Inactive	teacher	NA	on phone	At Desk	NA
+3	2	1653404745.393	08:22:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+3	2	1653404748.243	08:25:00	Talking to student: ON-task	teacher	12	NA	NA	Study activity
+3	2	1653404766.577	08:43:00	Talking to student: ON-task	teacher	6	do you know what to do here? what does this say? don't skip steps. maybe use the diagram. you are right. i don't know why.. this is showing this..	NA	Math content
+3	2	1653404948.496	11:45:00	Talking to student: ON-task	teacher	17	NA	NA	How tutor works
+3	2	1653404953.912	11:50:00	Talking to student: ON-task	teacher	22	there are 8 problems. you need to press enter	NA	Study activity
+3	2	1653404964.595	12:01:00	Talking to student: ON-task	teacher	23	NA	NA	How tutor works
+3	2	1653405003.601	12:40:00	Monitoring student	teacher	25	NA	NA	NA
+3	2	1653405008.09	12:45:00	Raising hand	18	teacher	NA	NA	NA
+3	2	1653405019.784	12:56:00	Talking to student: ON-task	teacher	18	if 4/4 is 1 what is 12/12? use diagram - this side thet divided, this side subtracted.. so what is the right option.. hmm hmm	NA	Math content
+3	2	1653405071.901	13:48:00	Monitoring student	teacher	12	NA	NA	NA
+3	2	1653405076.361	13:53:00	Talking to student: ON-task	teacher	12	you need to login	NA	Study activity
+3	2	1653405091.247	14:08:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+3	2	1653405093.965	14:10:00	Monitoring student	teacher	14	should this be 3x + 2 or ? hit enter. 	NA	NA
+3	2	1653405127.919	14:44:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+3	2	1653405131.888	14:48:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+3	2	1653405133.698	14:50:00	Raising hand	18	teacher	NA	NA	NA
+3	2	1653405141.442	14:58:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+3	2	1653405145.259	15:02:00	Talking to student: ON-task	teacher	12	what are you going to do next? this side is showing adding both side, subtracting both side, over here type 2x =4. now you solve for x. not hit enter. now type x = . 4/2. 	Right	Math content
+3	2	1653405243.486	16:40:00	Talking to class: ON-task	teacher	class	sign out 	NA	NA
+3	2	1653405250.274	16:47:00	Raising hand	12	teacher	NA	NA	NA
+3	2	1653405259.217	16:56:00	Monitoring class: Moving	teacher	class	NA	Middle;Right	NA
+3	2	1653405289.13	17:26:00	Talking to student: ON-task	teacher	18	how to sign out	NA	Study activity
+3	2	1653405301.4	17:38:00	Raising hand	18	teacher	NA	NA	NA
+3	2	1653405306.965	17:43:00	Talking to class: OFF-task	teacher	class	how old is Anon4?	Front of the room	12
+3	2	1653405327.785	18:04:00	Talking to class: ON-task	teacher	class	close your chromebooks	NA	Other
+4	2	1653409442	00:00:00	Period begins	NA	NA	NA	NA	NA
+4	2	1653409445.639	00:03:00	Talking to class: ON-task	teacher	class	login	NA	NA
+4	2	1653409458.674	00:16:00	Talking to student: ON-task	teacher	23	move places	NA	Behavior
+4	2	1653409513.269	01:11:00	Inactive	teacher	NA	NA	At Desk;Front of the room	NA
+4	2	1653409546.47	01:44:00	Inactive	teacher	NA	on phone	Front of the room;At Desk	NA
+4	2	1653409577.755	02:15:00	Raising hand	19	teacher	NA	NA	NA
+4	2	1653409584.98	02:22:00	Talking to class: ON-task	teacher	class	log in 	NA	NA
+4	2	1653409595.477	02:33:00	Raising hand	17	teacher	NA	NA	NA
+4	2	1653409599.716	02:37:00	Questioning: On-Task	17	teacher	username	NA	NA
+4	2	1653409631.937	03:09:00	Talking to student: ON-task	teacher	19	log in 	NA	Study activity
+4	2	1653409654.503	03:32:00	Talking to class: ON-task	teacher	class	log in 	NA	Study activity
+4	2	1653409658.447	03:36:00	Talking to class: ON-task	teacher	class	log in 	NA	Study activity
+4	2	1653409668.687	03:46:00	Talking to class: ON-task	teacher	class	log in 	NA	NA
+4	2	1653409672.262	03:50:00	Talking to student: ON-task	teacher	1	log in 	NA	Study activity
+4	2	1653409702.95	04:20:00	Raising hand	16	teacher	NA	NA	NA
+4	2	1653409706.337	04:24:00	Raising hand	21	teacher	NA	NA	NA
+4	2	1653409717.977	04:35:00	Talking to class: ON-task	teacher	class	directing to activity	NA	NA
+4	2	1653409741.682	04:59:00	Talking to student: ON-task	teacher	1	NA	NA	Study activity
+4	2	1653409822.715	06:20:00	Talking to student: ON-task	teacher	1	directing to problem set	At Desk	Study activity
+4	2	1653409901.502	07:39:00	Talking to student: ON-task	teacher	2	NA	NA	Study activity
+4	2	1653409915.45	07:53:00	Inactive	teacher	NA	taking a phone call	At Desk	NA
+4	2	1653409979.228	08:57:00	Talking to student: ON-task	teacher	2	NA	NA	Study activity
+4	2	1653409984.452	09:02:00	Talking to student: ON-task	teacher	4	NA	NA	Study activity
+4	2	1653410011.13	09:29:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+4	2	1653410027.391	09:45:00	Talking to student: ON-task	teacher	2	login	At Desk	Study activity
+4	2	1653410039.152	09:57:00	Inactive	teacher	NA	working with papers	NA	NA
+4	2	1653410057.255	10:15:00	Questioning: On-Task	9	teacher	NA	NA	NA
+4	2	1653410060.479	10:18:00	Talking to student: ON-task	teacher	9	there are more questions - keep going	NA	Study activity
+4	2	1653410073.669	10:31:00	Questioning: On-Task	4	teacher	NA	NA	NA
+4	2	1653410084.36	10:42:00	Talking to student: ON-task	teacher	4	whatever is in the yellow box is in the blue box. press enter please	Right	How tutor works
+4	2	1653410117.583	11:15:00	Talking to class: ON-task	teacher	class	why focus on this task?	NA	NA
+4	2	1653410142.195	11:40:00	Talking to student: ON-task	teacher	9	solve for x	NA	How tutor works
+4	2	1653410154.495	11:52:00	Talking to student: ON-task	teacher	2	login	At Desk	Study activity
+4	2	1653410172.641	12:10:00	Talking to student: ON-task	teacher	6	NA	NA	Study activity
+4	2	1653410184.975	12:22:00	Talking to student: OFF-task	teacher	4	NA	NA	NA
+4	2	1653410189.416	12:27:00	Raising hand	10	teacher	NA	NA	NA
+4	2	1653410195.406	12:33:00	Questioning: On-Task	1	teacher	NA	NA	NA
+4	2	1653410198.981	12:36:00	Talking to student: ON-task	teacher	1	so you don't know how to solve this. what will you do? hint.. click hint	NA	How tutor works
+4	2	1653410230.506	13:08:00	Talking to student: ON-task	teacher	10	use sladh. but right now you need to do 10-4. so subtract 1 from each side? now type. division is slash	NA	How tutor works
+4	2	1653410272.458	13:50:00	Talking to student: ON-task	teacher	9	now you are left with 2x=4	NA	Math content
+4	2	1653410291.879	14:09:00	Raising hand	4	teacher	NA	NA	NA
+4	2	1653410298.384	14:16:00	Talking to class: OFF-task	teacher	class	about test	NA	17
+4	2	1653410314.642	14:32:00	Talking to student: OFF-task	teacher	4	NA	NA	NA
+4	2	1653410322.05	14:40:00	Talking to student: OFF-task	teacher	17	NA	NA	NA
+4	2	1653410335.17	14:53:00	Talking to class: OFF-task	teacher	class	about test	NA	16
+4	2	1653410345.556	15:03:00	Talking to class: OFF-task	teacher	class	about test	NA	14
+4	2	1653410356.85	15:14:00	Talking to student: OFF-task	teacher	25	test	NA	NA
+4	2	1653410365.775	15:23:00	Talking to student: ON-task	teacher	9	yes. write x=2	NA	Math content
+4	2	1653410381.39	15:39:00	Raising hand	14	teacher	NA	NA	NA
+4	2	1653410400.738	15:58:00	Talking to student: OFF-task	teacher	1	asked to move back 	NA	NA
+4	2	1653410416.168	16:14:00	Inactive	teacher	NA	NA	NA	NA
+4	2	1653410475.378	17:13:00	Talking to student: ON-task	teacher	3	NA	NA	How tutor works
+4	2	1653410491.96	17:29:00	Raising hand	14	teacher	NA	NA	NA
+4	2	1653410494.285	17:32:00	Talking to student: ON-task	teacher	13	this one is subtracting, this is dividing.. which one do you think it is? then in the box you type x=3	NA	Math content
+4	2	1653410546.964	18:24:00	Talking to student: ON-task	teacher	14	x+4	NA	Math content
+4	2	1653410560.304	18:38:00	Raising hand	29	teacher	NA	NA	NA
+4	2	1653410565.646	18:43:00	Monitoring student	teacher	4	NA	NA	NA
+4	2	1653410569.84	18:47:00	Raising hand	21	teacher	NA	NA	NA
+4	2	1653410572.338	18:50:00	Raising hand	2	teacher	NA	NA	NA
+4	2	1653410575.65	18:53:00	Talking to student: ON-task	teacher	2	you go to write x= 3	NA	How tutor works
+4	2	1653410583.401	19:01:00	Raising hand	10	teacher	NA	NA	NA
+4	2	1653410605.233	19:23:00	Talking to student: OFF-task	teacher	2	NA	NA	NA
+4	2	1653410610.513	19:28:00	Talking to student: ON-task	teacher	9	no.. you can't subtract 2x from both sides	NA	Math content
+4	2	1653410627.577	19:45:00	Talking to class: ON-task	teacher	class	finish up the problem you are on	NA	NA
+4	2	1653410637.937	19:55:00	Talking to student: ON-task	teacher	2	enter that in the box	NA	How tutor works
+4	2	1653410653.495	20:11:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+4	2	1653410656.101	20:14:00	Talking to student: OFF-task	teacher	4	NA	NA	NA
+4	2	1653410664.912	20:22:00	Talking to class: ON-task	teacher	class	sign out when done	NA	NA
+4	2	1653410679.656	20:37:00	Talking to student: ON-task	teacher	21	get rid of it. its  2x=4 not 4x = 2. enter that. 	NA	Math content
+4	2	1653410738.328	21:36:00	Monitoring class: Moving	teacher	class	NA	Middle	NA
+4	2	1653410742.227	21:40:00	Raising hand	2	teacher	NA	NA	NA
+4	2	1653410745.96	21:43:00	Talking to student: ON-task	teacher	2	click on x	NA	How tutor works
+4	2	1653410772.145	22:10:00	Talking to small group: ON-task	teacher	11;10;12	NA	NA	Study activity
+4	2	1653410786.814	22:24:00	Talking to student: ON-task	teacher	17	NA	NA	Study activity
+4	2	1653410796.531	22:34:00	Talking to student: ON-task	teacher	6	sign out	At Desk	Study activity
+5	2	1653415666	00:00:00	Period begins	NA	NA	NA	NA	NA
+5	2	1653415669.312	00:03:00	Talking to class: ON-task	teacher	class	login	NA	NA
+5	2	1653415703.372	00:37:00	Talking to class: OFF-task	teacher	class	NA	NA	NA
+5	2	1653415709.674	00:43:00	Raising hand	14	teacher	NA	NA	NA
+5	2	1653415716.319	00:50:00	Talking to student: ON-task	teacher	14	NA	NA	Study activity
+5	2	1653415722.832	00:56:00	Talking to student: ON-task	teacher	6	write out steps	NA	How tutor works
+5	2	1653415751.115	01:25:00	Talking to student: OFF-task	teacher	1;2;9;10;11;12;17;18;19;20;13;14;23	collecting tests	NA	NA
+5	2	1653415791.632	02:05:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+5	2	1653415866.104	03:20:00	Talking to class: OFF-task	teacher	class	distributing candy for test	NA	NA
+5	2	1653415884.56	03:38:00	Talking to student: ON-task	teacher	10	need to show your work. write 2x=4. and now you can write	NA	How tutor works
+5	2	1653415920.43	04:14:00	Raising hand	23	teacher	NA	NA	NA
+5	2	1653415924.74	04:18:00	Talking to class: OFF-task	teacher	class	candy	NA	13
+5	2	1653415926.749	04:20:00	Talking to class: OFF-task	teacher	class	candy	NA	14
+5	2	1653415942.274	04:36:00	Talking to student: OFF-task	teacher	23	candy	NA	NA
+5	2	1653415949.331	04:43:00	Raising hand	11	teacher	NA	NA	NA
+5	2	1653415952.527	04:46:00	Talking to student: OFF-task	teacher	11	bathroom	NA	NA
+5	2	1653415960.52	04:54:00	Questioning: On-Task	6	teacher	NA	NA	NA
+5	2	1653415966.515	05:00:00	Talking to student: ON-task	teacher	6	ok. so this 3x+1. yes. that is what you write on the bar. 	NA	Math content
+5	2	1653415999.378	05:33:00	Raising hand	14	teacher	NA	NA	NA
+5	2	1653416002.726	05:36:00	Talking to student: ON-task	teacher	14	what i want you to do is write 3x+1	NA	How tutor works
+5	2	1653416030.525	06:04:00	Inactive	teacher	NA	on phone	Front of the room	NA
+5	2	1653416105.991	07:19:00	Talking to student: ON-task	teacher	11	so this is hsowing subtract one from both sides.. hmm.. good choice.. blue bar is the same as yellow bar	NA	How tutor works
+5	2	1653416137.649	07:51:00	Talking to student: ON-task	teacher	12	blue bar equals yellow bar	NA	How tutor works
+5	2	1653416146.845	08:00:00	Talking to student: ON-task	teacher	10	can you erase it? hit the red x. and go back in. try again. click the diagram you want. 	NA	How tutor works
+5	2	1653416209.612	09:03:00	Monitoring student	teacher	18	NA	NA	NA
+5	2	1653416228.426	09:22:00	Talking to student: ON-task	teacher	19	student: i know how to do this by hand but don't understand the diagrams. tecaher: ok.. so you need to write 4x=?	NA	How tutor works
+5	2	1653416269.22	10:03:00	Talking to class: OFF-task	teacher	class	indian restraunt	NA	NA
+5	2	1653416290.786	10:24:00	Talking to student: OFF-task	teacher	19	indian restaurant	NA	NA
+5	2	1653416319.341	10:53:00	Monitoring class: Moving	teacher	class	NA	Front of the room;Right	NA
+5	2	1653416325.36	10:59:00	Talking to student: ON-task	teacher	12	blue bar equals yellow bar	NA	How tutor works
+5	2	1653416341.2	11:15:00	Talking to student: ON-task	teacher	14	what are you doing? (student: i finished) open up	NA	Behavior
+5	2	1653416364.456	11:38:00	Talking to student: ON-task	teacher	6	NA	NA	How tutor works
+5	2	1653416372.567	11:46:00	Talking to student: OFF-task	teacher	6	bathroom	NA	NA
+5	2	1653416381.472	11:55:00	Talking to student: ON-task	teacher	14	this is what you need to write: 2x = ?	NA	How tutor works
+5	2	1653416418.93	12:32:00	Monitoring class: Moving	teacher	class	NA	Left;Middle	NA
+5	2	1653416425.433	12:39:00	Monitoring student	teacher	1;2	NA	NA	NA
+5	2	1653416434.122	12:48:00	Talking to student: ON-task	teacher	1;2	so you should have 3x+4=8	NA	Behavior
+5	2	1653416490.525	13:44:00	Talking to student: ON-task	teacher	2	3x = 6 ok. then what? yes. sometimes it is ok to do more steps. when you do too much in your head, you can make mistakes	NA	Math content
+5	2	1653416533.864	14:27:00	Monitoring class: Moving	teacher	class	NA	Middle;Front of the room	NA
+5	2	1653416541.684	14:35:00	Raising hand	19	teacher	NA	NA	NA
+5	2	1653416545.306	14:39:00	Talking to student: ON-task	teacher	19	how much time is left	NA	Study activity
+5	2	1653416581.586	15:15:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+5	2	1653416630.91	16:04:00	Inactive	teacher	NA	anouncement going on - doing something at desk	At Desk;At Desk	NA
+5	2	1653416683.277	16:57:00	Monitoring class: Moving	teacher	class	NA	Left;Back of the room	NA
+5	2	1653416691.21	17:05:00	Talking to class: OFF-task	teacher	class	about the announcement	NA	Outside the room
+5	2	1653416715.534	17:29:00	Talking to class: ON-task	teacher	class	keep working	NA	NA
+5	2	1653416724.724	17:38:00	Monitoring class: Fixed	teacher	class	NA	Back of the room	NA
+5	2	1653416786.93	18:40:00	Inactive	teacher	NA	NA	NA	NA
+5	2	1653416789.179	18:43:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+5	2	1653416797.495	18:51:00	Talking to student: ON-task	teacher	12	NA	NA	Study activity
+5	2	1653416813.596	19:07:00	Talking to student: ON-task	teacher	10	everything on the top goes to everything on bottom. get rid of 1.	NA	How tutor works
+5	2	1653416838.718	19:32:00	Raising hand	12	teacher	NA	NA	NA
+5	2	1653416843.355	19:37:00	Talking to student: ON-task	teacher	12	NA	NA	Math content
+5	2	1653416907.646	20:41:00	Talking to student: ON-task	teacher	10	asking about the issue	NA	NA
+5	2	1653416994.313	22:08:00	Talking to class: ON-task	teacher	class	sign out 	NA	NA
+5	2	1653417017.744	22:31:00	Talking to class: ON-task	teacher	class	close your chromebook	NA	NA
+1	3	1653481281	00:00:00	Period begins	NA	NA	NA	NA	NA
+1	3	1653481288.423	00:07:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+1	3	1653481295.46	00:14:00	Talking to student: ON-task	teacher	3	5x-3x is 2x. whatever the diagram - top bar equals bottom bar 	NA	Math content
+1	3	1653481374.868	01:33:00	Monitoring class: Moving	teacher	class	NA	Left;Back of the room;Right	NA
+1	3	1653481383.64	01:42:00	Talking to student: ON-task	teacher	12	blue bar yellow bar	NA	How tutor works
+1	3	1653481403.657	02:02:00	Monitoring class: Moving	teacher	class	NA	Right;Middle;Left	NA
+1	3	1653481409.66	02:08:00	Talking to student: ON-task	teacher	6	so you will do x=2-2, 6-4	NA	Math content
+1	3	1653481431.668	02:30:00	Raising hand	4	teacher	NA	NA	NA
+1	3	1653481438.584	02:37:00	Talking to student: ON-task	teacher	17	click use diagrams - whenever you see it broken off that means subtract. bar on bottom equals bar on top. so what will you do? yes! 2x (blue) =4 (yellow). so it says,.. divide both side with the coefficient. what is 4/2. ok 2. so enter it. thats it. 	NA	How tutor works
+1	3	1653481543.524	04:22:00	Talking to student: OFF-task	teacher	20	breakfast	NA	NA
+1	3	1653481559.256	04:38:00	Talking to student: ON-task	teacher	17	which one will you do first? remember whatever you do in one side, you will do on the other side. what's 10? its 9.  ok. use your hints. read what it says	NA	Math content
+1	3	1653481605.929	05:24:00	Talking to student: ON-task	teacher	23	ok what will you do next?	NA	Math content
+1	3	1653481629.387	05:48:00	Questioning: Off-Task	17	teacher	NA	NA	NA
+1	3	1653481633.545	05:52:00	Talking to student: OFF-task	teacher	17	NA	NA	NA
+1	3	1653481637.542	05:56:00	Talking to student: ON-task	teacher	23	nice job. good jib. i am so proud	NA	NA
+1	3	1653481655.714	06:14:00	Monitoring student	teacher	14	NA	NA	NA
+1	3	1653481658.593	06:17:00	Talking to student: ON-task	teacher	14	ok x=2	NA	Math content
+1	3	1653481680.07	06:39:00	Talking to student: ON-task	teacher	17	whats 9/3?	NA	Math content
+1	3	1653481689.588	06:48:00	Raising hand	3	teacher	NA	NA	NA
+1	3	1653481697.22	06:56:00	Monitoring class: Moving	teacher	class	NA	Right;Front of the room	NA
+1	3	1653481710.4	07:09:00	Talking to student: ON-task	teacher	12	come on lets go. cmu researchers are wiating on it.	NA	Motivation
+1	3	1653481731.547	07:30:00	Talking to student: ON-task	teacher	6	you need to fill full survey	NA	Study activity
+1	3	1653481745.401	07:44:00	Talking to student: ON-task	teacher	3	so you are subtracting ? from  both sides.	NA	Math content
+1	3	1653481798.18	08:37:00	Talking to student: OFF-task	teacher	20	dont use skyward (LMS)	NA	Behavior
+1	3	1653481822.977	09:01:00	Inactive	teacher	NA	NA	At Desk	NA
+1	3	1653481875.896	09:54:00	Talking to class: OFF-task	teacher	class	listen to Anon5	NA	Raising hand
+1	3	1653481906.549	10:25:00	Talking to student: ON-task	teacher	12;17	get variables on one side and constants on the other side. so, what will you do - which option? ok so you got x on one side x+1=? Ok, so now what? Add 9 both sides? Add x on one side? so which one is subtracting on both side, Now you just type 3x+?=9 and then what? solve for x now (student: omg it keeps going). yes so what will you do?	NA	Math content
+1	3	1653482039.37	12:38:00	Talking to student: ON-task	teacher	12	ok do x=? 	NA	Math content
+1	3	1653482050.962	12:49:00	Raising hand	4	teacher	NA	NA	NA
+1	3	1653482057.191	12:56:00	Talking to student: ON-task	teacher	4	equations	NA	Math content
+1	3	1653482074.642	13:13:00	Talking to student: ON-task	teacher	13	good.. so go on top and sign out	Front of the room	Study activity
+1	3	1653482101.785	13:40:00	Inactive	teacher	NA	NA	Front of the room;At Desk	NA
+1	3	1653482123.266	14:02:00	Talking to student: ON-task	teacher	17	student said she did everything on her own. T: good job Anon6	NA	Motivation
+1	3	1653482147.248	14:26:00	Raising hand	15	teacher	NA	NA	NA
+1	3	1653482149.9	14:28:00	Talking to student: ON-task	teacher	20	so its 3x+1 = what is on the bottom	NA	Math content
+1	3	1653482197.189	15:16:00	Talking to student: ON-task	teacher	12	student: i can't T: no.. its your day to shine extra.. later student: omg i got it right	NA	Motivation
+1	3	1653482229.461	15:48:00	Talking to student: ON-task	teacher	15	1x+4 - see you divide. lets do x. 	NA	Math content
+1	3	1653482268.6	16:27:00	Inactive	teacher	NA	tells Anon5 that the tutor doesn't like it when the students type 1x - gets red	NA	NA
+1	3	1653482307.528	17:06:00	Talking to student: ON-task	teacher	4	NA	NA	Math content
+1	3	1653482318.986	17:17:00	Talking to student: ON-task	teacher	20	i don't know what to do now	NA	Motivation
+1	3	1653482338.316	17:37:00	Talking to student: ON-task	teacher	20	student frustrated. teacher  ok get x in.. now press enter. 5x on both side. equals. now you got 2x. now its 8-2, so 2x+6	NA	Math content
+1	3	1653482382.313	18:21:00	Talking to class: ON-task	teacher	class	common 	NA	NA
+1	3	1653482388.549	18:27:00	Monitoring student	teacher	16	NA	NA	NA
+1	3	1653482393.188	18:32:00	Talking to student: OFF-task	teacher	23	live up to your potential	NA	Motivation
+1	3	1653482418.445	18:57:00	Talking to student: ON-task	teacher	17	NA	NA	Motivation
+1	3	1653482427.359	19:06:00	Talking to student: ON-task	teacher	4	equals 13	NA	Math content
+1	3	1653482475.953	19:54:00	Talking to student: OFF-task	teacher	10	planning	NA	NA
+1	3	1653482487.52	20:06:00	Talking to class: ON-task	teacher	class	when you are done, sign out	NA	NA
+1	3	1653482527.287	20:46:00	Talking to class: OFF-task	teacher	class	NA	NA	NA
+1	3	1653482534.871	20:53:00	Inactive	teacher	NA	talking to Anon5	NA	NA
+1	3	1653482548.239	21:07:00	Talking to class: ON-task	teacher	class	when done sign out	NA	NA
+2	3	1653487306	00:00:00	Period begins	NA	NA	NA	NA	NA
+2	3	1653487321.639	00:15:00	Talking to class: ON-task	teacher	class	login	NA	NA
+2	3	1653487431.398	02:05:00	Talking to class: OFF-task	teacher	class	attendance	At Desk	Inactive
+2	3	1653487489.398	03:03:00	Questioning: Off-Task	3	teacher	NA	NA	NA
+2	3	1653487493.61	03:07:00	Talking to student: OFF-task	teacher	3	sneakers cost	NA	NA
+2	3	1653487509.39	03:23:00	Talking to student: OFF-task	teacher	5	sneaker talk continues	NA	NA
+2	3	1653487550.505	04:04:00	Talking to student: OFF-task	teacher	2	NA	NA	NA
+2	3	1653487573.386	04:27:00	Talking to small group: OFF-task	teacher	3;5;2	NA	NA	NA
+2	3	1653487613.379	05:07:00	Talking to student: OFF-task	teacher	5	hoodies	At Desk	NA
+2	3	1653487651.161	05:45:00	Talking to student: ON-task	teacher	25	*hint abuse - don't abuse the hint	NA	Behavior
+2	3	1653487674.3	06:08:00	Talking to class: ON-task	teacher	class	don't click on hints to see what to do	NA	NA
+2	3	1653487698.8	06:32:00	Talking to student: ON-task	teacher	16	*hint abuse	NA	Behavior
+2	3	1653487714.482	06:48:00	Talking to class: ON-task	teacher	class	i can see what you are doing - hint abuse	NA	NA
+2	3	1653487732.182	07:06:00	Talking to student: ON-task	teacher	14	equations 8/4? student laughing 	NA	Math content
+2	3	1653487780.895	07:54:00	Raising hand	5	teacher	NA	NA	NA
+2	3	1653487784.819	07:58:00	Talking to student: ON-task	teacher	4;2;19	NA	NA	Math content
+2	3	1653487897.401	09:51:00	Monitoring student	teacher	20	NA	NA	NA
+2	3	1653487901.908	09:55:00	Talking to student: ON-task	teacher	16	write ehatever is in blue box to whatever in yellow - subtract 2 on both sides?	NA	How tutor works
+2	3	1653487981.513	11:15:00	Talking to student: ON-task	teacher	14	8/? 4/?	NA	Math content
+2	3	1653487997.79	11:31:00	Talking to student: ON-task	teacher	4	blue and yellow	NA	How tutor works
+2	3	1653488009.277	11:43:00	Inactive	teacher	NA	talking to Anon5 - improvement to the tutor  - where dialog box comes up	At Desk	NA
+2	3	1653488038.301	12:12:00	Talking to student: ON-task	teacher	2	this is dividing one side with 2, subtract/divide by 2. so what do you thin kyou should do? remember you do it on both sides. now you are going to type x+2	NA	Math content
+2	3	1653488097.477	13:11:00	Monitoring student	teacher	15	NA	NA	NA
+2	3	1653488101.429	13:15:00	Talking to student: OFF-task	teacher	3	NA	NA	NA
+2	3	1653488104.3	13:18:00	Talking to student: OFF-task	teacher	5	NA	NA	NA
+2	3	1653488105.954	13:19:00	Talking to student: ON-task	teacher	23	press enter. 9. thats it	NA	Math content
+2	3	1653488129.431	13:43:00	Raising hand	4	teacher	NA	NA	NA
+2	3	1653488133.8	13:47:00	Raising hand	19	teacher	NA	NA	NA
+2	3	1653488135.899	13:49:00	Talking to student: ON-task	teacher	25	"enter ""finish problem"""	NA	Math content
+2	3	1653488155.967	14:09:00	Monitoring student	teacher	19	NA	NA	NA
+2	3	1653488167.791	14:21:00	Talking to student: OFF-task	teacher	19	charger	NA	NA
+2	3	1653488210.834	15:04:00	Talking to small group: OFF-task	teacher	21;23	NA	NA	NA
+2	3	1653488215.353	15:09:00	Talking to student: ON-task	teacher	16	get it down to x = something. subtract 4 on both sides? 	NA	Math content
+2	3	1653488236.528	15:30:00	Raising hand	14	teacher	NA	NA	NA
+2	3	1653488240.812	15:34:00	Talking to student: ON-task	teacher	14	when stuck use the diagram. ok what will you do 1 or x. go ahead. now you type	NA	How tutor works
+2	3	1653488266.16	16:00:00	Talking to student: ON-task	teacher	3;5	stop talking about sneakers	NA	Motivation
+2	3	1653488299.164	16:33:00	Talking to student: OFF-task	teacher	3;5	NA	NA	Study activity
+2	3	1653488321.477	16:55:00	Monitoring student	teacher	16	NA	NA	NA
+2	3	1653488333.326	17:07:00	Talking to student: ON-task	teacher	16	now you have x=1	NA	Math content
+2	3	1653488341.128	17:15:00	Monitoring student	teacher	25	NA	NA	NA
+2	3	1653488345.366	17:19:00	Talking to student: ON-task	teacher	25	now you have 3x=15. now what will you do kingston. do same thing on both sides	NA	Math content
+2	3	1653488383.4	17:57:00	Talking to student: ON-task	teacher	21	oh. get rid of -1. so 4x-x = 10 - you are combining too many steps. they want to see your thinking	NA	How tutor works
+2	3	1653488423.768	18:37:00	Talking to student: ON-task	teacher	15	NA	NA	NA
+2	3	1653488429.884	18:43:00	Talking to class: OFF-task	teacher	class	what is that smell	NA	NA
+2	3	1653488454.654	19:08:00	Talking to student: ON-task	teacher	2	NA	NA	Motivation
+2	3	1653488463.4	19:17:00	Monitoring class: Moving	teacher	class	NA	Front of the room;Right;Middle	NA
+2	3	1653488479.141	19:33:00	Talking to student: ON-task	teacher	5	so write 5x-2x = 15. now what is 5x-2x? 2-2=0. now what? you got to subtract on that side as well	NA	Math content
+2	3	1653488527.86	20:21:00	Talking to class: ON-task	teacher	class	once you are done, click x on top and sign out	NA	NA
+2	3	1653488547.699	20:41:00	Monitoring student	teacher	15	NA	NA	NA
+2	3	1653488550.355	20:44:00	Talking to student: ON-task	teacher	15	2x-2x is zero right, so 3x=6	NA	Math content
+2	3	1653488569.996	21:03:00	Inactive	teacher	NA	checking laptop	Back of the room;Left;Back of the room	NA
+2	3	1653488583.839	21:17:00	Talking to student: ON-task	teacher	25	finish problem and red x	NA	Study activity
+2	3	1653488595.764	21:29:00	Monitoring class: Moving	teacher	class	NA	Back of the room;Middle;Left	NA
+2	3	1653488633.617	22:07:00	Talking to class: OFF-task	teacher	class	shoes	NA	NA
+3	3	1653490493	00:00:00	Period begins	NA	NA	NA	NA	NA
+3	3	1653490496.549	00:03:00	Talking to class: ON-task	teacher	class	login	NA	NA
+3	3	1653490590.729	01:37:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+3	3	1653490667.423	02:54:00	Inactive	teacher	NA	NA	NA	NA
+3	3	1653490689.784	03:16:00	Talking to student: ON-task	teacher	4	login	At Desk	Study activity
+3	3	1653490702.426	03:29:00	Inactive	teacher	NA	NA	NA	NA
+3	3	1653490735.534	04:02:00	Raising hand	4	teacher	NA	NA	NA
+3	3	1653490749.221	04:16:00	Talking to student: OFF-task	teacher	21	NA	NA	NA
+3	3	1653490753.174	04:20:00	Talking to student: OFF-task	teacher	25	NA	At Desk	NA
+3	3	1653490762.782	04:29:00	Monitoring class: Fixed	teacher	class	NA	NA	NA
+3	3	1653490808.974	05:15:00	Talking to class: OFF-task	teacher	class	finding  chromebook	NA	NA
+3	3	1653490841.85	05:48:00	Talking to student: OFF-task	teacher	2	NA	NA	NA
+3	3	1653490954.398	07:41:00	Inactive	teacher	NA	talking to Anon5	At Desk	NA
+3	3	1653490965.418	07:52:00	Talking to class: ON-task	teacher	class	focus	NA	NA
+3	3	1653491009.981	08:36:00	Talking to class: ON-task	teacher	class	don't abuse hints	NA	NA
+3	3	1653491023.158	08:50:00	Inactive	teacher	NA	can't see individual students - who is abusing hints	At Desk	NA
+3	3	1653491040.615	09:07:00	Talking to student: ON-task	teacher	23	click use diagrams - do want to add x to both sides - subtract x to both sides	NA	How tutor works
+3	3	1653491067.48	09:34:00	Talking to student: ON-task	teacher	25	NA	NA	Motivation
+3	3	1653491076.746	09:43:00	Monitoring class: Moving	teacher	class	NA	Right;Middle	NA
+3	3	1653491084.724	09:51:00	Monitoring student	teacher	18	NA	NA	NA
+3	3	1653491092.137	09:59:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+3	3	1653491093.965	10:00:00	Talking to student: ON-task	teacher	10	click finish problem. what would you do first? subtract 7?	NA	How tutor works
+3	3	1653491137.801	10:44:00	Talking to small group: OFF-task	teacher	21;23;25	extra teacher	NA	NA
+3	3	1653491171.208	11:18:00	Talking to student: ON-task	teacher	3	extra teacher	NA	Math content
+3	3	1653491186.79	11:33:00	Talking to student: ON-task	teacher	18	do the same thing on both sides	NA	Math content
+3	3	1653491203.68	11:50:00	Talking to student: ON-task	teacher	13	NA	Right	Behavior
+3	3	1653491243.113	12:30:00	Talking to student: ON-task	teacher	8	top bar equals bottom bar	NA	How tutor works
+3	3	1653491259.738	12:46:00	Talking to class: ON-task	teacher	class	NA	NA	NA
+3	3	1653491319.72	13:46:00	Talking to student: ON-task	teacher	3	extra teacher	NA	Math content
+3	3	1653491336.865	14:03:00	Monitoring student	teacher	1	NA	NA	NA
+3	3	1653491340.184	14:07:00	Talking to student: ON-task	teacher	14	NA	NA	How tutor works
+3	3	1653491347.606	14:14:00	Raising hand	18	teacher	NA	NA	NA
+3	3	1653491352.719	14:19:00	Talking to student: ON-task	teacher	25	NA	NA	Study activity
+3	3	1653491370.861	14:37:00	Monitoring class: Moving	teacher	class	NA	Right	NA
+3	3	1653491374.125	14:41:00	Talking to student: ON-task	teacher	19	common - whats happening	NA	How tutor works
+3	3	1653491389.99	14:56:00	Talking to student: ON-task	teacher	20	NA	NA	Motivation
+3	3	1653491402.63	15:09:00	Talking to student: ON-task	teacher	18	what do you want to do? 4+5x =. now 3x. now are syaing 5x+ this 4+3x. rememberer to do the same on both sides	NA	Math content
+3	3	1653491448.297	15:55:00	Monitoring student	teacher	10	NA	NA	NA
+3	3	1653491453.388	16:00:00	Monitoring class: Moving	teacher	class	NA	Middle	NA
+3	3	1653491456.706	16:03:00	Talking to student: ON-task	teacher	19	we are going to do this on both sides	NA	Math content
+3	3	1653491470.965	16:17:00	Talking to student: ON-task	teacher	21	it is  very procedural. now you are going to write blue bar equals yellow. finish. so this is what you have. 3x+1=10. what are you going to do next?	NA	Motivation
+3	3	1653491588.355	18:15:00	Inactive	teacher	NA	walked out	NA	NA
+3	3	1653491707.42	20:14:00	Talking to student: ON-task	teacher	21	NA	NA	How tutor works
+3	3	1653491711.995	20:18:00	Talking to student: ON-task	teacher	23	NA	Front of the room	Study activity
+3	3	1653491760.776	21:07:00	Inactive	teacher	NA	NA	NA	NA
+3	3	1653491768.924	21:15:00	Talking to student: ON-task	teacher	19	extra teacher	NA	Math content
+3	3	1653491796.697	21:43:00	Talking to class: ON-task	teacher	class	sign out	NA	NA
+3	3	1653491852.537	22:39:00	Inactive	teacher	NA	talking to someone else	Left	NA
+3	3	1653491872.205	22:59:00	Talking to class: ON-task	teacher	class	log out	NA	NA
+4	3	1653495851	00:00:00	Period begins	NA	NA	NA	NA	NA
+4	3	1653495862.225	00:11:00	Talking to class: ON-task	teacher	class	asking to login	NA	NA
+4	3	1653495871.975	00:20:00	Inactive	teacher	NA	monitoring students in the hallway	NA	NA
+4	3	1653495889.178	00:38:00	Inactive	teacher	NA	NA	NA	NA
+4	3	1653495894.537	00:43:00	Questioning: Off-Task	3	teacher	about skunk	NA	NA
+4	3	1653495904.95	00:53:00	Inactive	teacher	NA	NA	Back of the room	NA
+4	3	1653495914.752	01:03:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+4	3	1653495918.234	01:07:00	Talking to student: ON-task	teacher	19	NA	NA	Study activity
+4	3	1653495954.839	01:43:00	Talking to student: ON-task	teacher	20	don't abuse hints	NA	Motivation
+4	3	1653495968.366	01:57:00	Talking to class: ON-task	teacher	class	don't use hints so much	NA	NA
+4	3	1653495986.324	02:15:00	Talking to student: OFF-task	teacher	29	NA	NA	Behavior
+4	3	1653495999.969	02:28:00	Talking to student: ON-task	teacher	6	NA	NA	How tutor works
+4	3	1653496008.361	02:37:00	Talking to student: ON-task	teacher	5	subtract 1	NA	Math content
+4	3	1653496056.879	03:25:00	Monitoring student	teacher	13	NA	NA	NA
+4	3	1653496062.148	03:31:00	Raising hand	15	teacher	NA	NA	NA
+4	3	1653496065.97	03:34:00	Talking to student: ON-task	teacher	5	solve for x	NA	Math content
+4	3	1653496082.13	03:51:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+4	3	1653496084.732	03:53:00	Talking to student: ON-task	teacher	2	NA	NA	Study activity
+4	3	1653496093.272	04:02:00	Talking to student: ON-task	teacher	2	NA	At Desk	Behavior
+4	3	1653496138.866	04:47:00	Inactive	teacher	NA	talking to Anon5 about yellowhorse not having a laptop	At Desk	NA
+4	3	1653496159.595	05:08:00	Talking to student: ON-task	teacher	2	NA	NA	Study activity
+4	3	1653496178.575	05:27:00	Raising hand	8	teacher	NA	NA	NA
+4	3	1653496190.489	05:39:00	Talking to student: ON-task	teacher	10	you need to put 2x=4. hmm so that's 4/10	At Desk	How tutor works
+4	3	1653496229.615	06:18:00	Talking to student: OFF-task	teacher	8	position tracking 	NA	NA
+4	3	1653496245.81	06:34:00	Raising hand	17	teacher	NA	NA	NA
+4	3	1653496250.775	06:39:00	Talking to student: OFF-task	teacher	17	teletubby	NA	NA
+4	3	1653496275.968	07:04:00	Talking to student: OFF-task	teacher	29	NA	At Desk	NA
+4	3	1653496290.361	07:19:00	Raising hand	5	teacher	NA	NA	NA
+4	3	1653496305.462	07:34:00	Talking to student: ON-task	teacher	5	blue equals yellow	NA	Math content
+4	3	1653496320.284	07:49:00	Talking to class: OFF-task	teacher	class	NA	NA	NA
+4	3	1653496364.379	08:33:00	Raising hand	2	teacher	NA	NA	NA
+4	3	1653496371.333	08:40:00	Raising hand	19	teacher	NA	NA	NA
+4	3	1653496375.486	08:44:00	Talking to student: ON-task	teacher	2	login	NA	Study activity
+4	3	1653496386.937	08:55:00	Talking to student: ON-task	teacher	13	are you going to subtract 2 on both sides? divide by 2? what are you going to do? ok so now typr in the box 	NA	Math content
+4	3	1653496428.525	09:37:00	Raising hand	15	teacher	NA	NA	NA
+4	3	1653496444.889	09:53:00	Talking to student: OFF-task	teacher	15	charger	NA	NA
+4	3	1653496451.713	10:00:00	Talking to student: ON-task	teacher	23	type 5=4x	NA	How tutor works
+4	3	1653496463.66	10:12:00	Raising hand	5	teacher	NA	NA	NA
+4	3	1653496485.39	10:34:00	Talking to student: ON-task	teacher	19	top bar equals bottom	NA	How tutor works
+4	3	1653496498.279	10:47:00	Raising hand	11	teacher	NA	NA	NA
+4	3	1653496501.437	10:50:00	Talking to student: ON-task	teacher	17	go slowly. subtract or add 2	NA	Math content
+4	3	1653496577.385	12:06:00	Talking to student: ON-task	teacher	11	top row equals bottom	NA	How tutor works
+4	3	1653496590.282	12:19:00	Talking to student: ON-task	teacher	8	NA	NA	How tutor works
+4	3	1653496595.828	12:24:00	Talking to student: ON-task	teacher	2	NA	NA	Study activity
+4	3	1653496601.53	12:30:00	Talking to student: ON-task	teacher	13	NA	NA	Motivation
+4	3	1653496620.991	12:49:00	Talking to student: OFF-task	teacher	23	NA	NA	NA
+4	3	1653496629.878	12:58:00	Raising hand	18	teacher	NA	NA	NA
+4	3	1653496637.261	13:06:00	Talking to student: ON-task	teacher	19	NA	NA	How tutor works
+4	3	1653496642.849	13:11:00	Talking to student: ON-task	teacher	20	NA	NA	How tutor works
+4	3	1653496647.671	13:16:00	Talking to student: ON-task	teacher	18	NA	NA	NA
+4	3	1653496765.603	15:14:00	Talking to student: ON-task	teacher	13	multiply both sides?	NA	Math content
+4	3	1653496772.462	15:21:00	Talking to student: ON-task	teacher	16	NA	NA	Math content
+4	3	1653496786.923	15:35:00	Talking to student: ON-task	teacher	5	NA	NA	How tutor works
+4	3	1653496795.514	15:44:00	Talking to student: ON-task	teacher	2	2x+4 - ok what will give.. x=10 hit enter	NA	Math content
+4	3	1653496831.298	16:20:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+4	3	1653496833.746	16:22:00	Talking to student: ON-task	teacher	17	CMU researcher	NA	Motivation
+4	3	1653496852.02	16:41:00	Talking to student: ON-task	teacher	19	divide both sides with coefficient of x. ok so x=2	NA	Math content
+4	3	1653496877.803	17:06:00	Talking to student: ON-task	teacher	16	so you got 5x=5	NA	Math content
+4	3	1653496893.972	17:22:00	Talking to student: ON-task	teacher	7	NA	NA	Math content
+4	3	1653496899.479	17:28:00	Talking to student: ON-task	teacher	6	whatever you do to one side you do to the other	NA	Math content
+4	3	1653496931.816	18:00:00	Talking to student: OFF-task	teacher	29	NA	Middle	NA
+4	3	1653496966.59	18:35:00	Raising hand	20	teacher	NA	NA	NA
+4	3	1653496969.166	18:38:00	Raising hand	18	teacher	NA	NA	NA
+4	3	1653496971.731	18:40:00	Talking to student: ON-task	teacher	18	subtract x or subtract 1 - what you do in one you do in other? no..	NA	Math content
+4	3	1653497002.906	19:11:00	Talking to student: OFF-task	teacher	20	NA	NA	NA
+4	3	1653497006.52	19:15:00	Talking to student: OFF-task	teacher	17	NA	NA	NA
+4	3	1653497009.117	19:18:00	Talking to student: ON-task	teacher	2	yes Anon2. you are skipping too many steps. subtract 7, add 7, or subtract 7 on the left. there you go. perfect. here you type 2x=4	NA	Math content
+4	3	1653497066.226	20:15:00	Talking to class: ON-task	teacher	class	whatever problem on top - click x and sign out	NA	NA
+4	3	1653497093.525	20:42:00	Talking to student: ON-task	teacher	5	NA	NA	Math content
+4	3	1653497105.157	20:54:00	Talking to student: ON-task	teacher	13	divide by something. and then click x	Left	Math content
+4	3	1653497129.44	21:18:00	Inactive	teacher	NA	talking to Anon5 - there is a white box even after they finish - that's confusing 	At Desk	NA
+4	3	1653497173.367	22:02:00	Inactive	teacher	NA	to Anon5 - need better orientation - the video went very fast	At Desk	NA
+4	3	1653497201.132	22:30:00	Inactive	teacher	NA	talking to Anon5	NA	NA
+5	3	1653501999	00:00:00	Period begins	NA	NA	NA	NA	NA
+5	3	1653502003.523	00:04:00	Talking to class: ON-task	teacher	class	login	NA	NA
+5	3	1653502009.159	00:10:00	Questioning: On-Task	14	teacher	NA	NA	NA
+5	3	1653502011.937	00:12:00	Raising hand	16	teacher	NA	NA	NA
+5	3	1653502084.682	01:25:00	Talking to class: ON-task	teacher	class	everybody in?	NA	NA
+5	3	1653502103.678	01:44:00	Inactive	teacher	NA	chatting with outside student	At Desk	NA
+5	3	1653502167.693	02:48:00	Raising hand	16	teacher	NA	NA	NA
+5	3	1653502172.351	02:53:00	Inactive	teacher	NA	checking computer	At Desk	NA
+5	3	1653502229.849	03:50:00	Monitoring class: Moving	teacher	class	NA	Front of the room;Left;Back of the room	NA
+5	3	1653502235.99	03:56:00	Inactive	teacher	NA	talking to students in the hallway	NA	NA
+5	3	1653502251.455	04:12:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+5	3	1653502253.752	04:14:00	Talking to student: ON-task	teacher	16	NA	NA	Study activity
+5	3	1653502260.602	04:21:00	Talking to student: ON-task	teacher	13	diagrams or hints?	NA	How tutor works
+5	3	1653502272.23	04:33:00	Raising hand	2	teacher	NA	NA	NA
+5	3	1653502277.986	04:38:00	Talking to student: OFF-task	teacher	2	charger	NA	NA
+5	3	1653502312.186	05:13:00	Talking to class: OFF-task	teacher	class	ask about charger	NA	NA
+5	3	1653502323.33	05:24:00	Talking to student: ON-task	teacher	12	blue bar equals yellow bar	NA	How tutor works
+5	3	1653502339.34	05:40:00	Talking to student: ON-task	teacher	18	wrong problem set	NA	Study activity
+5	3	1653502347.385	05:48:00	Monitoring class: Moving	teacher	class	NA	NA	NA
+5	3	1653502348.454	05:49:00	Monitoring student	teacher	20	NA	NA	NA
+5	3	1653502359.46	06:00:00	Questioning: On-Task	4	teacher	NA	NA	NA
+5	3	1653502362.947	06:03:00	Talking to student: ON-task	teacher	4	read feedback	NA	How tutor works
+5	3	1653502379.17	06:20:00	Talking to small group: OFF-task	teacher	15;16	about games	NA	NA
+5	3	1653502399.2	06:40:00	Monitoring class: Moving	teacher	class	NA	Left;Middle	NA
+5	3	1653502409.88	06:50:00	Talking to class: OFF-task	teacher	class	NA	NA	15
+5	3	1653502413.239	06:54:00	Talking to student: ON-task	teacher	14	same thing both sides	NA	NA
+5	3	1653502425.73	07:06:00	Talking to student: ON-task	teacher	6	use diagrams - red x 	NA	How tutor works
+5	3	1653502443.16	07:24:00	Monitoring class: Moving	teacher	class	NA	Middle;Right	NA
+5	3	1653502450.279	07:31:00	Monitoring student	teacher	11	NA	NA	NA
+5	3	1653502461.348	07:42:00	Monitoring class: Moving	teacher	class	NA	Right;Middle;Left	NA
+5	3	1653502479.68	08:00:00	Talking to student: OFF-task	teacher	14	game	NA	NA
+5	3	1653502499.887	08:20:00	Monitoring class: Moving	teacher	class	NA	Back of the room	NA
+5	3	1653502503.12	08:24:00	Raising hand	1	teacher	NA	NA	NA
+5	3	1653502505.714	08:26:00	Raising hand	10	teacher	NA	NA	NA
+5	3	1653502510.85	08:31:00	Talking to student: ON-task	teacher	23	blue box equals yellow box	NA	How tutor works
+5	3	1653502528.571	08:49:00	Talking to student: ON-task	teacher	10;12	up here 4+2x=8. yes subtracting 4 on both sides is right. but 2x equals what? 	NA	Math content
+5	3	1653502620.483	10:21:00	Monitoring class: Moving	teacher	class	NA	Right	NA
+5	3	1653502626.203	10:27:00	Talking to student: OFF-task	teacher	6	finished all problems	NA	NA
+5	3	1653502629.541	10:30:00	Raising hand	17	teacher	NA	NA	NA
+5	3	1653502634.585	10:35:00	Talking to student: ON-task	teacher	17	2x equals what?	NA	Math content
+5	3	1653502674.396	11:15:00	Raising hand	14	teacher	NA	NA	NA
+5	3	1653502678.62	11:19:00	Questioning: On-Task	1	teacher	NA	NA	NA
+5	3	1653502682.246	11:23:00	Talking to student: ON-task	teacher	1	NA	NA	Study activity
+5	3	1653502687.659	11:28:00	Talking to student: ON-task	teacher	14	see here it is 2x=4	NA	Math content
+5	3	1653502735.965	12:16:00	Talking to student: ON-task	teacher	20	finished problems	NA	Study activity
+5	3	1653502742.79	12:23:00	Talking to student: ON-task	teacher	23	NA	NA	Study activity
+5	3	1653502746.446	12:27:00	Talking to student: ON-task	teacher	16	you are going to write it as 4x= or x+9	NA	Math content
+5	3	1653502782.164	13:03:00	Monitoring class: Moving	teacher	class	NA	Middle;Right	NA
+5	3	1653502790.613	13:11:00	Talking to student: ON-task	teacher	12	x equals? there you go. and read out the message from the tutor	NA	Math content
+5	3	1653502824.924	13:45:00	Talking to class: ON-task	teacher	class	ignore the white box - its a glitch	NA	NA
+5	3	1653502843.308	14:04:00	Monitoring class: Moving	teacher	class	NA	Middle;Left	NA
+5	3	1653502848.26	14:09:00	Talking to student: ON-task	teacher	15	NA	NA	How tutor works
+5	3	1653502859.395	14:20:00	Talking to student: ON-task	teacher	14	ok what is the hint saying? it is always, blue bar equals yellow bar, horizontal and not vertical	Middle	Math content
+5	3	1653502898.686	14:59:00	Talking to student: OFF-task	teacher	19	school trip	NA	NA
+5	3	1653502911.963	15:12:00	Raising hand	1	teacher	NA	NA	NA
+5	3	1653502916.967	15:17:00	Talking to small group: OFF-task	teacher	18;20;19	NA	Front of the room	NA
+5	3	1653502928.06	15:29:00	Inactive	teacher	NA	taking a phone call	At Desk	NA
+5	3	1653502961.631	16:02:00	Talking to student: OFF-task	teacher	16	NA	NA	NA
+5	3	1653502976.284	16:17:00	Monitoring class: Moving	teacher	class	NA	Front of the room;Left;Back of the room	NA
+5	3	1653502988.95	16:29:00	Inactive	teacher	NA	Talking to Anon5	Front of the room	NA
+5	3	1653503000.954	16:41:00	Talking to class: ON-task	teacher	class	5 min warning-if you are done find something else to do	NA	NA
+5	3	1653503058.896	17:39:00	Talking to student: ON-task	teacher	23	NA	NA	Math content
+5	3	1653503071.487	17:52:00	Monitoring class: Moving	teacher	class	NA	Back of the room;Middle	NA
+5	3	1653503081.289	18:02:00	Talking to student: OFF-task	teacher	19	asked to do something else because finished	NA	NA
+5	3	1653503101.368	18:22:00	Monitoring class: Moving	teacher	class	NA	Middle;Front of the room;Left	NA
+5	3	1653503107.772	18:28:00	Talking to student: OFF-task	teacher	16	NA	Front of the room	NA
+5	3	1653503119.11	18:40:00	Monitoring student	teacher	1	NA	NA	NA
+5	3	1653503123.825	18:44:00	Talking to student: ON-task	teacher	1	NA	NA	Study activity
+5	3	1653503128.403	18:49:00	Raising hand	6	teacher	NA	NA	NA
+5	3	1653503131.53	18:52:00	Talking to student: OFF-task	teacher	6	NA	NA	NA
+5	3	1653503137.908	18:58:00	Monitoring class: Moving	teacher	class	NA	Middle;Right	NA
+5	3	1653503143.606	19:04:00	Monitoring student	teacher	12	NA	NA	NA
+5	3	1653503148.332	19:09:00	Monitoring class: Moving	teacher	class	NA	Right;Middle	NA
+5	3	1653503168.7	19:29:00	Raising hand	19	teacher	NA	NA	NA
+5	3	1653503172.266	19:33:00	Talking to student: OFF-task	teacher	19	NA	NA	NA
+5	3	1653503184.407	19:45:00	Talking to student: OFF-task	teacher	14	NA	NA	NA
+5	3	1653503197.983	19:58:00	Monitoring class: Moving	teacher	class	NA	Middle;Front of the room;At Desk	NA
+5	3	1653503209.553	20:10:00	Inactive	teacher	NA	NA	At Desk	NA
+5	3	1653503218.81	20:19:00	Talking to class: ON-task	teacher	class	finish problem, red x, and sign out	NA	NA
+5	3	1653503239.81	20:40:00	Talking to class: ON-task	teacher	class	explian post test	NA	NA
+5	3	1653503252.196	20:53:00	Talking to student: ON-task	teacher	12	student: what if I finished everything	At Desk	Study activity
+5	3	1653503275.21	21:16:00	Raising hand	15	teacher	NA	NA	NA
+5	3	1653503288.916	21:29:00	Inactive	teacher	NA	NA	At Desk	NA
+5	3	1653503304.638	21:45:00	Talking to student: ON-task	teacher	9	blue bar 5x equals? what will you do? same thing on both sides. add 2x +5. hmm. blue bar equals yellow	NA	Math content
+5	3	1653503361.485	22:42:00	Talking to class: ON-task	teacher	class	close your chromebooks	NA	NA
+5	3	1653503383.671	23:04:00	Inactive	teacher	NA	Talking to Anon5 - all done	At Desk	NA
